@@ -1,0 +1,7 @@
+CategoryID,CategoryName,RiskTier
+1,Apparel,High Risk
+2,Beauty & Health,Low-Medium Risk
+3,Electronics,Low-Medium Risk
+4,Footwear,High Risk
+5,Home & Kitchen,Low-Medium Risk
+6,Sports & Outdoors,Low-Medium Risk

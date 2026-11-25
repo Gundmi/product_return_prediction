@@ -1,0 +1,87 @@
+{
+  "total_unique_customers": 4022,
+  "features_used": [
+    "past_purchase_count",
+    "past_return_rate",
+    "avg_discount",
+    "avg_price",
+    "avg_session_length"
+  ],
+  "profiles": [
+    {
+      "cluster_id": 0,
+      "name": "High-Volume Loyalists",
+      "description": "Frequent repeat buyers with consistent order patterns, moderate price sensitivity, and average return rates.",
+      "risk_tier": "Low Risk",
+      "strategy": "Enroll in VIP retention rewards; provide expedited premium returns as a loyalty perk.",
+      "customer_count": 1418,
+      "customer_percent": 35.3,
+      "avg_purchases": 2.7,
+      "avg_return_rate": 15.7,
+      "observed_return_rate": 24.2,
+      "avg_discount_percent": 15.6,
+      "avg_order_value": 79.02,
+      "avg_session_minutes": 8.7
+    },
+    {
+      "cluster_id": 1,
+      "name": "Habitual Returners / Wardrobers",
+      "description": "High return frequency, multiple items purchased per session with elevated sizing mismatch risk.",
+      "risk_tier": "High Risk",
+      "strategy": "Offer interactive size-fit recommendations; encourage virtual try-on and store credit incentives.",
+      "customer_count": 758,
+      "customer_percent": 18.8,
+      "avg_purchases": 3.8,
+      "avg_return_rate": 45.9,
+      "observed_return_rate": 39.9,
+      "avg_discount_percent": 16.6,
+      "avg_order_value": 84.42,
+      "avg_session_minutes": 10.3
+    },
+    {
+      "cluster_id": 2,
+      "name": "Bargain & Promo Seekers",
+      "description": "Strong responsiveness to discounts (>30%), coupon affinity, impulsive browsing with higher return velocity.",
+      "risk_tier": "Medium Risk",
+      "strategy": "Optimize clearance promotion return policies; reinforce pre-order product specifications.",
+      "customer_count": 437,
+      "customer_percent": 10.9,
+      "avg_purchases": 4.0,
+      "avg_return_rate": 20.5,
+      "observed_return_rate": 21.7,
+      "avg_discount_percent": 16.0,
+      "avg_order_value": 221.81,
+      "avg_session_minutes": 9.8
+    },
+    {
+      "cluster_id": 3,
+      "name": "Low-Engagement Occasionals",
+      "description": "Low purchase count, short browsing sessions, low coupon usage, predominantly baseline buying habits.",
+      "risk_tier": "Low Risk",
+      "strategy": "Nurture with personalized category onboarding emails and post-purchase check-ins.",
+      "customer_count": 456,
+      "customer_percent": 11.3,
+      "avg_purchases": 3.8,
+      "avg_return_rate": 20.8,
+      "observed_return_rate": 26.1,
+      "avg_discount_percent": 16.2,
+      "avg_order_value": 84.59,
+      "avg_session_minutes": 25.5
+    },
+    {
+      "cluster_id": 4,
+      "name": "Premium Considered Shoppers",
+      "description": "High average order values, extensive browsing duration, high catalog rating scrutiny, lowest return rate.",
+      "risk_tier": "Minimal Risk",
+      "strategy": "Prioritize white-glove packaging, fast-track dispatch, and premium concierge support.",
+      "customer_count": 953,
+      "customer_percent": 23.7,
+      "avg_purchases": 6.3,
+      "avg_return_rate": 18.1,
+      "observed_return_rate": 24.3,
+      "avg_discount_percent": 16.1,
+      "avg_order_value": 81.9,
+      "avg_session_minutes": 9.4
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+ShippingID,ShippingMethod,SLA_TargetDays
+1,Express,2
+2,Free Economy,6
+3,Next-Day,1
+4,Standard,4

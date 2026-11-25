@@ -1,0 +1,3271 @@
+OrderID,ReturnStatus,ReturnReason,DaysToReturn
+ORD-010001,Inspected & Restocked,Delivery Delayed Past Expectation,14
+ORD-010005,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010006,Liquidated,Defective / Damaged Item,17
+ORD-010008,Completed & Restocked,Sizing / Fit Issue,12
+ORD-010009,Completed & Restocked,Sizing / Fit Issue,7
+ORD-010014,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-010016,Completed & Restocked,Sizing / Fit Issue,13
+ORD-010022,Completed & Restocked,Sizing / Fit Issue,16
+ORD-010024,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-010031,Completed & Restocked,Sizing / Fit Issue,4
+ORD-010034,Completed & Restocked,Defective / Damaged Item,10
+ORD-010036,Completed & Restocked,Defective / Damaged Item,8
+ORD-010046,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-010049,Inspected & Restocked,Buyer's Remorse / Changed Mind,4
+ORD-010051,Completed & Restocked,Sizing / Fit Issue,13
+ORD-010052,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-010055,Completed & Restocked,Sizing / Fit Issue,14
+ORD-010056,Completed & Restocked,Sizing / Fit Issue,15
+ORD-010057,Inspected & Restocked,Delivery Delayed Past Expectation,16
+ORD-010061,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-010068,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-010073,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-010074,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-010080,Completed & Restocked,Sizing / Fit Issue,3
+ORD-010081,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-010084,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-010087,Scrapped / Recycled,Wrong Item Shipped,16
+ORD-010095,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-010098,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-010099,Completed & Restocked,Sizing / Fit Issue,12
+ORD-010103,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010105,Completed & Restocked,Sizing / Fit Issue,15
+ORD-010109,Completed & Restocked,Sizing / Fit Issue,19
+ORD-010110,Inspected & Restocked,Item Not as Pictured / Described,6
+ORD-010111,Completed & Restocked,Sizing / Fit Issue,8
+ORD-010113,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-010117,Completed & Restocked,Sizing / Fit Issue,7
+ORD-010119,Completed & Restocked,Sizing / Fit Issue,4
+ORD-010123,Completed & Restocked,Sizing / Fit Issue,14
+ORD-010131,Completed & Restocked,Sizing / Fit Issue,10
+ORD-010134,Completed & Restocked,Sizing / Fit Issue,13
+ORD-010135,Completed & Restocked,Defective / Damaged Item,18
+ORD-010143,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-010146,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-010149,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-010150,Completed & Restocked,Buyer's Remorse / Changed Mind,24
+ORD-010152,Completed & Restocked,Sizing / Fit Issue,7
+ORD-010153,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-010167,Inspected & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-010169,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-010172,Completed & Restocked,Delivery Delayed Past Expectation,25
+ORD-010173,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-010177,Completed & Restocked,Buyer's Remorse / Changed Mind,16
+ORD-010178,Completed & Restocked,Item Not as Pictured / Described,6
+ORD-010181,Completed & Restocked,Sizing / Fit Issue,16
+ORD-010184,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-010190,Completed & Restocked,Sizing / Fit Issue,12
+ORD-010192,Completed & Restocked,Item Not as Pictured / Described,18
+ORD-010193,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-010196,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-010197,Liquidated,Item Not as Pictured / Described,26
+ORD-010200,Liquidated,Sizing / Fit Issue,14
+ORD-010203,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-010204,Inspected & Restocked,Sizing / Fit Issue,21
+ORD-010209,Completed & Restocked,Defective / Damaged Item,15
+ORD-010212,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-010215,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-010216,Completed & Restocked,Sizing / Fit Issue,3
+ORD-010218,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-010222,Completed & Restocked,Sizing / Fit Issue,3
+ORD-010223,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-010232,Liquidated,Sizing / Fit Issue,17
+ORD-010233,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-010242,Completed & Restocked,Defective / Damaged Item,18
+ORD-010249,Completed & Restocked,Sizing / Fit Issue,9
+ORD-010250,Liquidated,Sizing / Fit Issue,17
+ORD-010252,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-010253,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-010254,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-010272,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-010277,Scrapped / Recycled,Delivery Delayed Past Expectation,14
+ORD-010287,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-010289,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-010292,Completed & Restocked,Defective / Damaged Item,10
+ORD-010301,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-010310,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-010317,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-010321,Completed & Restocked,Sizing / Fit Issue,16
+ORD-010322,Scrapped / Recycled,Sizing / Fit Issue,3
+ORD-010327,Completed & Restocked,Sizing / Fit Issue,12
+ORD-010328,Inspected & Restocked,Item Not as Pictured / Described,12
+ORD-010339,Completed & Restocked,Sizing / Fit Issue,10
+ORD-010343,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-010346,Completed & Restocked,Wrong Item Shipped,15
+ORD-010348,Completed & Restocked,Defective / Damaged Item,7
+ORD-010350,Completed & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-010351,Completed & Restocked,Wrong Item Shipped,16
+ORD-010360,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-010365,Inspected & Restocked,Item Not as Pictured / Described,3
+ORD-010367,Completed & Restocked,Sizing / Fit Issue,9
+ORD-010370,Liquidated,Sizing / Fit Issue,8
+ORD-010371,Inspected & Restocked,Defective / Damaged Item,10
+ORD-010372,Completed & Restocked,Defective / Damaged Item,11
+ORD-010376,Completed & Restocked,Sizing / Fit Issue,19
+ORD-010379,Liquidated,Sizing / Fit Issue,4
+ORD-010380,Inspected & Restocked,Delivery Delayed Past Expectation,14
+ORD-010381,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-010382,Completed & Restocked,Sizing / Fit Issue,13
+ORD-010388,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010393,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-010395,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010401,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-010406,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-010413,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-010414,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-010420,Liquidated,Sizing / Fit Issue,6
+ORD-010421,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-010429,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010438,Completed & Restocked,Sizing / Fit Issue,3
+ORD-010440,Inspected & Restocked,Defective / Damaged Item,5
+ORD-010444,Completed & Restocked,Sizing / Fit Issue,16
+ORD-010445,Inspected & Restocked,Delivery Delayed Past Expectation,18
+ORD-010446,Liquidated,Delivery Delayed Past Expectation,9
+ORD-010450,Completed & Restocked,Defective / Damaged Item,4
+ORD-010451,Completed & Restocked,Sizing / Fit Issue,19
+ORD-010453,Completed & Restocked,Sizing / Fit Issue,18
+ORD-010463,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-010465,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-010468,Liquidated,Sizing / Fit Issue,9
+ORD-010475,Inspected & Restocked,Item Not as Pictured / Described,13
+ORD-010476,Inspected & Restocked,Item Not as Pictured / Described,7
+ORD-010480,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-010481,Completed & Restocked,Sizing / Fit Issue,14
+ORD-010485,Scrapped / Recycled,Defective / Damaged Item,9
+ORD-010488,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010491,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-010495,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-010502,Completed & Restocked,Sizing / Fit Issue,7
+ORD-010504,Completed & Restocked,Sizing / Fit Issue,13
+ORD-010506,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-010508,Completed & Restocked,Sizing / Fit Issue,15
+ORD-010509,Completed & Restocked,Defective / Damaged Item,3
+ORD-010511,Completed & Restocked,Defective / Damaged Item,10
+ORD-010519,Inspected & Restocked,Buyer's Remorse / Changed Mind,20
+ORD-010521,Completed & Restocked,Defective / Damaged Item,6
+ORD-010523,Completed & Restocked,Sizing / Fit Issue,19
+ORD-010526,Liquidated,Buyer's Remorse / Changed Mind,9
+ORD-010527,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-010532,Liquidated,Delivery Delayed Past Expectation,13
+ORD-010539,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-010549,Completed & Restocked,Defective / Damaged Item,14
+ORD-010551,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-010552,Completed & Restocked,Item Not as Pictured / Described,4
+ORD-010553,Inspected & Restocked,Delivery Delayed Past Expectation,14
+ORD-010556,Liquidated,Sizing / Fit Issue,12
+ORD-010561,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-010562,Completed & Restocked,Wrong Item Shipped,12
+ORD-010563,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-010565,Inspected & Restocked,Item Not as Pictured / Described,15
+ORD-010566,Completed & Restocked,Sizing / Fit Issue,8
+ORD-010567,Completed & Restocked,Sizing / Fit Issue,18
+ORD-010573,Completed & Restocked,Defective / Damaged Item,11
+ORD-010575,Completed & Restocked,Sizing / Fit Issue,5
+ORD-010577,Completed & Restocked,Wrong Item Shipped,5
+ORD-010582,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010586,Inspected & Restocked,Item Not as Pictured / Described,6
+ORD-010590,Scrapped / Recycled,Wrong Item Shipped,15
+ORD-010597,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-010600,Liquidated,Item Not as Pictured / Described,10
+ORD-010603,Inspected & Restocked,Wrong Item Shipped,9
+ORD-010605,Completed & Restocked,Defective / Damaged Item,11
+ORD-010613,Completed & Restocked,Sizing / Fit Issue,10
+ORD-010619,Completed & Restocked,Sizing / Fit Issue,13
+ORD-010620,Completed & Restocked,Sizing / Fit Issue,15
+ORD-010622,Scrapped / Recycled,Wrong Item Shipped,3
+ORD-010631,Completed & Restocked,Sizing / Fit Issue,8
+ORD-010632,Liquidated,Sizing / Fit Issue,11
+ORD-010633,Inspected & Restocked,Item Not as Pictured / Described,7
+ORD-010634,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-010648,Liquidated,Sizing / Fit Issue,5
+ORD-010650,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-010654,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-010655,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-010659,Completed & Restocked,Sizing / Fit Issue,18
+ORD-010668,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-010670,Inspected & Restocked,Delivery Delayed Past Expectation,16
+ORD-010672,Liquidated,Sizing / Fit Issue,17
+ORD-010685,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-010686,Completed & Restocked,Buyer's Remorse / Changed Mind,5
+ORD-010687,Liquidated,Item Not as Pictured / Described,12
+ORD-010689,Completed & Restocked,Sizing / Fit Issue,7
+ORD-010691,Inspected & Restocked,Defective / Damaged Item,10
+ORD-010705,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-010707,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-010711,Completed & Restocked,Sizing / Fit Issue,14
+ORD-010714,Completed & Restocked,Sizing / Fit Issue,12
+ORD-010715,Completed & Restocked,Sizing / Fit Issue,13
+ORD-010719,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-010721,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-010736,Inspected & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-010737,Inspected & Restocked,Item Not as Pictured / Described,10
+ORD-010740,Completed & Restocked,Sizing / Fit Issue,15
+ORD-010745,Inspected & Restocked,Item Not as Pictured / Described,10
+ORD-010748,Liquidated,Sizing / Fit Issue,9
+ORD-010751,Completed & Restocked,Wrong Item Shipped,16
+ORD-010753,Completed & Restocked,Sizing / Fit Issue,16
+ORD-010755,Completed & Restocked,Sizing / Fit Issue,14
+ORD-010759,Inspected & Restocked,Delivery Delayed Past Expectation,17
+ORD-010760,Completed & Restocked,Sizing / Fit Issue,9
+ORD-010763,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-010764,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-010765,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-010773,Completed & Restocked,Item Not as Pictured / Described,5
+ORD-010775,Completed & Restocked,Sizing / Fit Issue,20
+ORD-010787,Inspected & Restocked,Delivery Delayed Past Expectation,13
+ORD-010789,Scrapped / Recycled,Sizing / Fit Issue,16
+ORD-010791,Completed & Restocked,Sizing / Fit Issue,3
+ORD-010792,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-010794,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-010796,Completed & Restocked,Sizing / Fit Issue,12
+ORD-010797,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-010801,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-010808,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-010811,Inspected & Restocked,Wrong Item Shipped,4
+ORD-010812,Completed & Restocked,Wrong Item Shipped,5
+ORD-010817,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-010823,Completed & Restocked,Sizing / Fit Issue,12
+ORD-010825,Completed & Restocked,Delivery Delayed Past Expectation,4
+ORD-010833,Liquidated,Buyer's Remorse / Changed Mind,10
+ORD-010837,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010840,Completed & Restocked,Sizing / Fit Issue,15
+ORD-010842,Completed & Restocked,Wrong Item Shipped,7
+ORD-010845,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010849,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-010851,Completed & Restocked,Sizing / Fit Issue,8
+ORD-010861,Completed & Restocked,Sizing / Fit Issue,9
+ORD-010863,Completed & Restocked,Sizing / Fit Issue,14
+ORD-010872,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-010877,Completed & Restocked,Sizing / Fit Issue,5
+ORD-010889,Completed & Restocked,Sizing / Fit Issue,3
+ORD-010890,Completed & Restocked,Sizing / Fit Issue,15
+ORD-010894,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-010895,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-010896,Completed & Restocked,Defective / Damaged Item,6
+ORD-010897,Scrapped / Recycled,Item Not as Pictured / Described,12
+ORD-010898,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-010900,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-010902,Liquidated,Item Not as Pictured / Described,11
+ORD-010903,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-010906,Completed & Restocked,Sizing / Fit Issue,4
+ORD-010907,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-010908,Completed & Restocked,Defective / Damaged Item,8
+ORD-010909,Completed & Restocked,Sizing / Fit Issue,11
+ORD-010911,Completed & Restocked,Sizing / Fit Issue,6
+ORD-010912,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-010913,Scrapped / Recycled,Sizing / Fit Issue,18
+ORD-010918,Inspected & Restocked,Sizing / Fit Issue,20
+ORD-010924,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-010928,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-010929,Completed & Restocked,Sizing / Fit Issue,7
+ORD-010933,Completed & Restocked,Item Not as Pictured / Described,19
+ORD-010938,Liquidated,Delivery Delayed Past Expectation,13
+ORD-010945,Completed & Restocked,Defective / Damaged Item,12
+ORD-010949,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-010956,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-010959,Completed & Restocked,Sizing / Fit Issue,15
+ORD-010968,Completed & Restocked,Defective / Damaged Item,12
+ORD-010974,Liquidated,Item Not as Pictured / Described,15
+ORD-010977,Scrapped / Recycled,Item Not as Pictured / Described,16
+ORD-010978,Completed & Restocked,Sizing / Fit Issue,17
+ORD-010980,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-010983,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-010988,Completed & Restocked,Sizing / Fit Issue,22
+ORD-010989,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-010990,Liquidated,Sizing / Fit Issue,11
+ORD-010998,Completed & Restocked,Sizing / Fit Issue,6
+ORD-010999,Liquidated,Sizing / Fit Issue,10
+ORD-011002,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-011003,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-011005,Inspected & Restocked,Defective / Damaged Item,9
+ORD-011008,Inspected & Restocked,Sizing / Fit Issue,22
+ORD-011010,Inspected & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-011012,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011013,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-011014,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-011015,Completed & Restocked,Sizing / Fit Issue,20
+ORD-011016,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-011017,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-011023,Completed & Restocked,Sizing / Fit Issue,6
+ORD-011028,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-011029,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-011037,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-011040,Liquidated,Item Not as Pictured / Described,6
+ORD-011045,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-011048,Liquidated,Sizing / Fit Issue,14
+ORD-011053,Inspected & Restocked,Defective / Damaged Item,13
+ORD-011056,Completed & Restocked,Sizing / Fit Issue,21
+ORD-011058,Completed & Restocked,Sizing / Fit Issue,16
+ORD-011063,Inspected & Restocked,Defective / Damaged Item,3
+ORD-011068,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-011072,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-011082,Completed & Restocked,Buyer's Remorse / Changed Mind,20
+ORD-011083,Scrapped / Recycled,Buyer's Remorse / Changed Mind,16
+ORD-011084,Completed & Restocked,Defective / Damaged Item,12
+ORD-011087,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-011092,Inspected & Restocked,Item Not as Pictured / Described,9
+ORD-011096,Liquidated,Delivery Delayed Past Expectation,3
+ORD-011099,Completed & Restocked,Wrong Item Shipped,17
+ORD-011100,Completed & Restocked,Sizing / Fit Issue,15
+ORD-011101,Scrapped / Recycled,Sizing / Fit Issue,6
+ORD-011103,Scrapped / Recycled,Defective / Damaged Item,7
+ORD-011104,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011107,Liquidated,Sizing / Fit Issue,5
+ORD-011108,Liquidated,Defective / Damaged Item,14
+ORD-011112,Completed & Restocked,Sizing / Fit Issue,6
+ORD-011115,Completed & Restocked,Defective / Damaged Item,9
+ORD-011118,Completed & Restocked,Defective / Damaged Item,12
+ORD-011119,Completed & Restocked,Sizing / Fit Issue,14
+ORD-011126,Inspected & Restocked,Defective / Damaged Item,16
+ORD-011129,Completed & Restocked,Sizing / Fit Issue,13
+ORD-011131,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-011132,Completed & Restocked,Defective / Damaged Item,7
+ORD-011133,Completed & Restocked,Sizing / Fit Issue,16
+ORD-011140,Completed & Restocked,Sizing / Fit Issue,15
+ORD-011142,Completed & Restocked,Sizing / Fit Issue,19
+ORD-011146,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-011147,Liquidated,Defective / Damaged Item,18
+ORD-011150,Completed & Restocked,Defective / Damaged Item,6
+ORD-011151,Completed & Restocked,Wrong Item Shipped,10
+ORD-011154,Liquidated,Delivery Delayed Past Expectation,14
+ORD-011159,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-011160,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-011164,Liquidated,Buyer's Remorse / Changed Mind,15
+ORD-011168,Inspected & Restocked,Wrong Item Shipped,18
+ORD-011169,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-011181,Inspected & Restocked,Defective / Damaged Item,16
+ORD-011187,Completed & Restocked,Defective / Damaged Item,13
+ORD-011196,Completed & Restocked,Sizing / Fit Issue,12
+ORD-011205,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-011206,Liquidated,Sizing / Fit Issue,16
+ORD-011210,Completed & Restocked,Sizing / Fit Issue,13
+ORD-011219,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-011222,Liquidated,Defective / Damaged Item,9
+ORD-011223,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-011226,Completed & Restocked,Item Not as Pictured / Described,5
+ORD-011227,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-011228,Completed & Restocked,Buyer's Remorse / Changed Mind,5
+ORD-011232,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-011236,Inspected & Restocked,Sizing / Fit Issue,25
+ORD-011240,Scrapped / Recycled,Sizing / Fit Issue,9
+ORD-011243,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-011244,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011248,Completed & Restocked,Sizing / Fit Issue,6
+ORD-011254,Completed & Restocked,Sizing / Fit Issue,13
+ORD-011255,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-011256,Scrapped / Recycled,Sizing / Fit Issue,20
+ORD-011258,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011264,Completed & Restocked,Defective / Damaged Item,11
+ORD-011273,Completed & Restocked,Defective / Damaged Item,15
+ORD-011274,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-011275,Liquidated,Item Not as Pictured / Described,17
+ORD-011277,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-011279,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-011284,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-011295,Completed & Restocked,Defective / Damaged Item,16
+ORD-011296,Completed & Restocked,Defective / Damaged Item,12
+ORD-011297,Inspected & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-011303,Liquidated,Buyer's Remorse / Changed Mind,12
+ORD-011312,Completed & Restocked,Sizing / Fit Issue,21
+ORD-011319,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-011320,Inspected & Restocked,Delivery Delayed Past Expectation,10
+ORD-011323,Completed & Restocked,Wrong Item Shipped,14
+ORD-011325,Completed & Restocked,Sizing / Fit Issue,16
+ORD-011328,Completed & Restocked,Defective / Damaged Item,10
+ORD-011331,Inspected & Restocked,Wrong Item Shipped,15
+ORD-011332,Inspected & Restocked,Defective / Damaged Item,16
+ORD-011333,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-011335,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-011338,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-011339,Inspected & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-011343,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-011345,Liquidated,Item Not as Pictured / Described,13
+ORD-011357,Completed & Restocked,Sizing / Fit Issue,15
+ORD-011378,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011380,Inspected & Restocked,Delivery Delayed Past Expectation,16
+ORD-011383,Liquidated,Sizing / Fit Issue,15
+ORD-011386,Completed & Restocked,Wrong Item Shipped,10
+ORD-011391,Liquidated,Defective / Damaged Item,6
+ORD-011392,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011398,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-011399,Scrapped / Recycled,Sizing / Fit Issue,17
+ORD-011400,Completed & Restocked,Sizing / Fit Issue,15
+ORD-011403,Liquidated,Item Not as Pictured / Described,10
+ORD-011407,Completed & Restocked,Sizing / Fit Issue,15
+ORD-011421,Completed & Restocked,Wrong Item Shipped,7
+ORD-011424,Completed & Restocked,Sizing / Fit Issue,17
+ORD-011427,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-011431,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-011433,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-011438,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-011440,Scrapped / Recycled,Delivery Delayed Past Expectation,6
+ORD-011442,Scrapped / Recycled,Sizing / Fit Issue,21
+ORD-011443,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-011446,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011447,Completed & Restocked,Sizing / Fit Issue,15
+ORD-011452,Liquidated,Sizing / Fit Issue,10
+ORD-011462,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011464,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011484,Completed & Restocked,Defective / Damaged Item,3
+ORD-011485,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-011486,Scrapped / Recycled,Delivery Delayed Past Expectation,9
+ORD-011487,Completed & Restocked,Sizing / Fit Issue,4
+ORD-011489,Completed & Restocked,Defective / Damaged Item,12
+ORD-011491,Completed & Restocked,Sizing / Fit Issue,14
+ORD-011492,Scrapped / Recycled,Item Not as Pictured / Described,19
+ORD-011501,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-011510,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-011511,Liquidated,Sizing / Fit Issue,6
+ORD-011515,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011517,Completed & Restocked,Sizing / Fit Issue,21
+ORD-011525,Completed & Restocked,Sizing / Fit Issue,18
+ORD-011543,Completed & Restocked,Sizing / Fit Issue,16
+ORD-011548,Scrapped / Recycled,Defective / Damaged Item,7
+ORD-011549,Completed & Restocked,Sizing / Fit Issue,16
+ORD-011552,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-011555,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-011556,Completed & Restocked,Defective / Damaged Item,7
+ORD-011564,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-011569,Completed & Restocked,Sizing / Fit Issue,7
+ORD-011572,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011573,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011575,Scrapped / Recycled,Defective / Damaged Item,13
+ORD-011577,Inspected & Restocked,Delivery Delayed Past Expectation,16
+ORD-011579,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-011583,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-011591,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-011592,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-011596,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-011597,Completed & Restocked,Sizing / Fit Issue,16
+ORD-011600,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011611,Inspected & Restocked,Defective / Damaged Item,14
+ORD-011612,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-011621,Completed & Restocked,Sizing / Fit Issue,7
+ORD-011627,Completed & Restocked,Sizing / Fit Issue,18
+ORD-011631,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-011635,Inspected & Restocked,Defective / Damaged Item,5
+ORD-011643,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-011648,Liquidated,Sizing / Fit Issue,9
+ORD-011652,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-011654,Liquidated,Sizing / Fit Issue,9
+ORD-011667,Completed & Restocked,Wrong Item Shipped,3
+ORD-011668,Scrapped / Recycled,Defective / Damaged Item,6
+ORD-011671,Completed & Restocked,Sizing / Fit Issue,15
+ORD-011672,Inspected & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-011673,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-011691,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011694,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-011701,Inspected & Restocked,Item Not as Pictured / Described,17
+ORD-011706,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-011709,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011710,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-011714,Inspected & Restocked,Item Not as Pictured / Described,21
+ORD-011716,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-011721,Completed & Restocked,Sizing / Fit Issue,15
+ORD-011726,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-011732,Inspected & Restocked,Item Not as Pictured / Described,11
+ORD-011734,Completed & Restocked,Defective / Damaged Item,10
+ORD-011735,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-011740,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-011742,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-011751,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011752,Completed & Restocked,Sizing / Fit Issue,4
+ORD-011754,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011755,Inspected & Restocked,Delivery Delayed Past Expectation,14
+ORD-011757,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-011758,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-011759,Completed & Restocked,Sizing / Fit Issue,14
+ORD-011760,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-011762,Inspected & Restocked,Item Not as Pictured / Described,17
+ORD-011766,Completed & Restocked,Sizing / Fit Issue,9
+ORD-011769,Completed & Restocked,Buyer's Remorse / Changed Mind,19
+ORD-011773,Inspected & Restocked,Defective / Damaged Item,19
+ORD-011778,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-011781,Completed & Restocked,Defective / Damaged Item,11
+ORD-011788,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-011792,Completed & Restocked,Sizing / Fit Issue,19
+ORD-011795,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-011803,Liquidated,Sizing / Fit Issue,5
+ORD-011805,Inspected & Restocked,Wrong Item Shipped,8
+ORD-011809,Completed & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-011813,Completed & Restocked,Defective / Damaged Item,14
+ORD-011817,Inspected & Restocked,Item Not as Pictured / Described,5
+ORD-011818,Inspected & Restocked,Delivery Delayed Past Expectation,13
+ORD-011825,Completed & Restocked,Sizing / Fit Issue,25
+ORD-011829,Completed & Restocked,Delivery Delayed Past Expectation,24
+ORD-011830,Completed & Restocked,Sizing / Fit Issue,3
+ORD-011834,Completed & Restocked,Sizing / Fit Issue,17
+ORD-011838,Completed & Restocked,Sizing / Fit Issue,18
+ORD-011839,Scrapped / Recycled,Delivery Delayed Past Expectation,4
+ORD-011849,Liquidated,Sizing / Fit Issue,10
+ORD-011851,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-011856,Completed & Restocked,Defective / Damaged Item,5
+ORD-011860,Liquidated,Sizing / Fit Issue,11
+ORD-011862,Completed & Restocked,Sizing / Fit Issue,10
+ORD-011863,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-011874,Completed & Restocked,Defective / Damaged Item,9
+ORD-011879,Liquidated,Sizing / Fit Issue,13
+ORD-011881,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-011886,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-011887,Completed & Restocked,Sizing / Fit Issue,17
+ORD-011895,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-011896,Completed & Restocked,Defective / Damaged Item,12
+ORD-011901,Liquidated,Buyer's Remorse / Changed Mind,12
+ORD-011905,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-011911,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-011912,Inspected & Restocked,Delivery Delayed Past Expectation,17
+ORD-011919,Completed & Restocked,Sizing / Fit Issue,6
+ORD-011930,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-011931,Scrapped / Recycled,Delivery Delayed Past Expectation,13
+ORD-011932,Completed & Restocked,Sizing / Fit Issue,12
+ORD-011934,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-011940,Liquidated,Sizing / Fit Issue,8
+ORD-011941,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-011944,Scrapped / Recycled,Sizing / Fit Issue,15
+ORD-011945,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-011947,Completed & Restocked,Sizing / Fit Issue,14
+ORD-011952,Scrapped / Recycled,Delivery Delayed Past Expectation,3
+ORD-011953,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011959,Liquidated,Sizing / Fit Issue,3
+ORD-011961,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-011972,Completed & Restocked,Sizing / Fit Issue,9
+ORD-011973,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-011979,Inspected & Restocked,Item Not as Pictured / Described,17
+ORD-011981,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-011983,Inspected & Restocked,Delivery Delayed Past Expectation,15
+ORD-011985,Liquidated,Buyer's Remorse / Changed Mind,11
+ORD-011987,Completed & Restocked,Sizing / Fit Issue,11
+ORD-011989,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-011990,Completed & Restocked,Item Not as Pictured / Described,18
+ORD-011997,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-012000,Completed & Restocked,Delivery Delayed Past Expectation,18
+ORD-012004,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-012007,Completed & Restocked,Defective / Damaged Item,16
+ORD-012010,Completed & Restocked,Defective / Damaged Item,7
+ORD-012013,Scrapped / Recycled,Sizing / Fit Issue,6
+ORD-012027,Liquidated,Sizing / Fit Issue,8
+ORD-012031,Liquidated,Sizing / Fit Issue,11
+ORD-012032,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-012038,Inspected & Restocked,Delivery Delayed Past Expectation,20
+ORD-012040,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-012054,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-012057,Scrapped / Recycled,Sizing / Fit Issue,24
+ORD-012061,Completed & Restocked,Item Not as Pictured / Described,8
+ORD-012064,Completed & Restocked,Sizing / Fit Issue,6
+ORD-012066,Completed & Restocked,Sizing / Fit Issue,8
+ORD-012067,Completed & Restocked,Sizing / Fit Issue,10
+ORD-012068,Inspected & Restocked,Defective / Damaged Item,6
+ORD-012073,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-012075,Completed & Restocked,Sizing / Fit Issue,11
+ORD-012082,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-012084,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-012086,Liquidated,Defective / Damaged Item,12
+ORD-012094,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-012097,Inspected & Restocked,Defective / Damaged Item,9
+ORD-012100,Completed & Restocked,Wrong Item Shipped,4
+ORD-012121,Inspected & Restocked,Item Not as Pictured / Described,15
+ORD-012123,Liquidated,Delivery Delayed Past Expectation,16
+ORD-012124,Inspected & Restocked,Sizing / Fit Issue,21
+ORD-012126,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-012129,Scrapped / Recycled,Delivery Delayed Past Expectation,11
+ORD-012134,Completed & Restocked,Sizing / Fit Issue,8
+ORD-012135,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-012136,Completed & Restocked,Sizing / Fit Issue,17
+ORD-012146,Inspected & Restocked,Sizing / Fit Issue,20
+ORD-012148,Liquidated,Sizing / Fit Issue,3
+ORD-012149,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-012153,Completed & Restocked,Sizing / Fit Issue,20
+ORD-012155,Inspected & Restocked,Delivery Delayed Past Expectation,18
+ORD-012158,Liquidated,Defective / Damaged Item,4
+ORD-012159,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012160,Inspected & Restocked,Defective / Damaged Item,15
+ORD-012161,Completed & Restocked,Defective / Damaged Item,6
+ORD-012166,Completed & Restocked,Item Not as Pictured / Described,26
+ORD-012169,Completed & Restocked,Defective / Damaged Item,5
+ORD-012175,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-012181,Completed & Restocked,Sizing / Fit Issue,4
+ORD-012182,Inspected & Restocked,Defective / Damaged Item,10
+ORD-012185,Completed & Restocked,Sizing / Fit Issue,3
+ORD-012187,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012189,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-012191,Completed & Restocked,Defective / Damaged Item,12
+ORD-012197,Completed & Restocked,Sizing / Fit Issue,7
+ORD-012198,Completed & Restocked,Defective / Damaged Item,9
+ORD-012202,Completed & Restocked,Sizing / Fit Issue,18
+ORD-012206,Scrapped / Recycled,Defective / Damaged Item,17
+ORD-012207,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-012208,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-012212,Liquidated,Sizing / Fit Issue,4
+ORD-012216,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-012220,Completed & Restocked,Item Not as Pictured / Described,5
+ORD-012236,Completed & Restocked,Sizing / Fit Issue,16
+ORD-012238,Completed & Restocked,Sizing / Fit Issue,7
+ORD-012241,Inspected & Restocked,Defective / Damaged Item,3
+ORD-012242,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-012244,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-012248,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-012250,Inspected & Restocked,Defective / Damaged Item,9
+ORD-012251,Inspected & Restocked,Wrong Item Shipped,17
+ORD-012260,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-012262,Liquidated,Delivery Delayed Past Expectation,5
+ORD-012263,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-012266,Completed & Restocked,Sizing / Fit Issue,6
+ORD-012270,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012271,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-012272,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-012279,Completed & Restocked,Wrong Item Shipped,18
+ORD-012288,Inspected & Restocked,Defective / Damaged Item,18
+ORD-012289,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-012290,Completed & Restocked,Defective / Damaged Item,13
+ORD-012291,Completed & Restocked,Item Not as Pictured / Described,9
+ORD-012296,Completed & Restocked,Sizing / Fit Issue,16
+ORD-012301,Completed & Restocked,Sizing / Fit Issue,13
+ORD-012307,Completed & Restocked,Sizing / Fit Issue,10
+ORD-012317,Completed & Restocked,Sizing / Fit Issue,8
+ORD-012320,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-012324,Completed & Restocked,Sizing / Fit Issue,3
+ORD-012336,Liquidated,Sizing / Fit Issue,7
+ORD-012342,Completed & Restocked,Defective / Damaged Item,17
+ORD-012345,Completed & Restocked,Defective / Damaged Item,16
+ORD-012348,Completed & Restocked,Sizing / Fit Issue,16
+ORD-012351,Completed & Restocked,Sizing / Fit Issue,3
+ORD-012353,Completed & Restocked,Sizing / Fit Issue,10
+ORD-012355,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-012357,Completed & Restocked,Sizing / Fit Issue,11
+ORD-012361,Completed & Restocked,Item Not as Pictured / Described,8
+ORD-012365,Inspected & Restocked,Item Not as Pictured / Described,22
+ORD-012370,Completed & Restocked,Sizing / Fit Issue,17
+ORD-012379,Scrapped / Recycled,Delivery Delayed Past Expectation,12
+ORD-012381,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-012385,Completed & Restocked,Defective / Damaged Item,14
+ORD-012390,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-012394,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-012395,Completed & Restocked,Sizing / Fit Issue,13
+ORD-012401,Liquidated,Sizing / Fit Issue,12
+ORD-012402,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-012404,Liquidated,Sizing / Fit Issue,6
+ORD-012405,Completed & Restocked,Sizing / Fit Issue,11
+ORD-012409,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012414,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-012415,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-012417,Inspected & Restocked,Buyer's Remorse / Changed Mind,6
+ORD-012420,Completed & Restocked,Sizing / Fit Issue,21
+ORD-012426,Scrapped / Recycled,Delivery Delayed Past Expectation,14
+ORD-012428,Completed & Restocked,Sizing / Fit Issue,16
+ORD-012430,Completed & Restocked,Sizing / Fit Issue,22
+ORD-012442,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012443,Completed & Restocked,Defective / Damaged Item,20
+ORD-012446,Completed & Restocked,Sizing / Fit Issue,11
+ORD-012447,Completed & Restocked,Sizing / Fit Issue,9
+ORD-012450,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012459,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012461,Completed & Restocked,Sizing / Fit Issue,3
+ORD-012463,Inspected & Restocked,Delivery Delayed Past Expectation,4
+ORD-012464,Inspected & Restocked,Defective / Damaged Item,13
+ORD-012465,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-012466,Inspected & Restocked,Item Not as Pictured / Described,16
+ORD-012480,Completed & Restocked,Item Not as Pictured / Described,3
+ORD-012485,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012488,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-012496,Completed & Restocked,Sizing / Fit Issue,17
+ORD-012499,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-012501,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-012502,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-012507,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012517,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-012519,Completed & Restocked,Wrong Item Shipped,9
+ORD-012523,Completed & Restocked,Sizing / Fit Issue,6
+ORD-012533,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-012535,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-012541,Completed & Restocked,Sizing / Fit Issue,14
+ORD-012546,Scrapped / Recycled,Sizing / Fit Issue,18
+ORD-012547,Completed & Restocked,Sizing / Fit Issue,7
+ORD-012550,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012559,Inspected & Restocked,Delivery Delayed Past Expectation,11
+ORD-012560,Completed & Restocked,Sizing / Fit Issue,8
+ORD-012570,Inspected & Restocked,Defective / Damaged Item,13
+ORD-012572,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-012580,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-012594,Completed & Restocked,Sizing / Fit Issue,3
+ORD-012595,Completed & Restocked,Sizing / Fit Issue,6
+ORD-012596,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-012606,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-012611,Completed & Restocked,Sizing / Fit Issue,3
+ORD-012613,Completed & Restocked,Sizing / Fit Issue,14
+ORD-012614,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-012615,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012618,Completed & Restocked,Defective / Damaged Item,3
+ORD-012619,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-012623,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-012629,Liquidated,Delivery Delayed Past Expectation,9
+ORD-012630,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-012634,Inspected & Restocked,Item Not as Pictured / Described,10
+ORD-012637,Completed & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-012638,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012639,Liquidated,Delivery Delayed Past Expectation,14
+ORD-012640,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-012641,Completed & Restocked,Item Not as Pictured / Described,7
+ORD-012642,Inspected & Restocked,Delivery Delayed Past Expectation,10
+ORD-012643,Completed & Restocked,Delivery Delayed Past Expectation,22
+ORD-012648,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-012651,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-012656,Completed & Restocked,Defective / Damaged Item,18
+ORD-012667,Inspected & Restocked,Defective / Damaged Item,19
+ORD-012671,Inspected & Restocked,Delivery Delayed Past Expectation,17
+ORD-012677,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-012685,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-012691,Completed & Restocked,Sizing / Fit Issue,14
+ORD-012696,Liquidated,Defective / Damaged Item,16
+ORD-012698,Completed & Restocked,Sizing / Fit Issue,10
+ORD-012703,Inspected & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-012706,Completed & Restocked,Buyer's Remorse / Changed Mind,4
+ORD-012707,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012712,Completed & Restocked,Wrong Item Shipped,5
+ORD-012713,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-012715,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012718,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-012721,Completed & Restocked,Item Not as Pictured / Described,8
+ORD-012722,Inspected & Restocked,Defective / Damaged Item,12
+ORD-012723,Scrapped / Recycled,Wrong Item Shipped,10
+ORD-012726,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012727,Completed & Restocked,Sizing / Fit Issue,9
+ORD-012729,Inspected & Restocked,Sizing / Fit Issue,20
+ORD-012734,Completed & Restocked,Defective / Damaged Item,18
+ORD-012736,Inspected & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-012739,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-012740,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-012741,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-012742,Completed & Restocked,Sizing / Fit Issue,9
+ORD-012745,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-012746,Completed & Restocked,Sizing / Fit Issue,20
+ORD-012747,Completed & Restocked,Sizing / Fit Issue,4
+ORD-012752,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-012754,Scrapped / Recycled,Sizing / Fit Issue,7
+ORD-012759,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-012760,Inspected & Restocked,Item Not as Pictured / Described,12
+ORD-012764,Scrapped / Recycled,Item Not as Pictured / Described,7
+ORD-012765,Liquidated,Delivery Delayed Past Expectation,11
+ORD-012767,Completed & Restocked,Sizing / Fit Issue,6
+ORD-012769,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-012771,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-012788,Liquidated,Wrong Item Shipped,15
+ORD-012795,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-012799,Completed & Restocked,Sizing / Fit Issue,10
+ORD-012810,Completed & Restocked,Defective / Damaged Item,9
+ORD-012815,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012816,Completed & Restocked,Buyer's Remorse / Changed Mind,20
+ORD-012819,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-012821,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-012822,Completed & Restocked,Sizing / Fit Issue,18
+ORD-012824,Completed & Restocked,Sizing / Fit Issue,20
+ORD-012827,Completed & Restocked,Sizing / Fit Issue,14
+ORD-012828,Liquidated,Item Not as Pictured / Described,5
+ORD-012830,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-012832,Liquidated,Sizing / Fit Issue,17
+ORD-012833,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-012836,Completed & Restocked,Sizing / Fit Issue,21
+ORD-012840,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-012843,Completed & Restocked,Sizing / Fit Issue,22
+ORD-012844,Completed & Restocked,Sizing / Fit Issue,9
+ORD-012845,Liquidated,Delivery Delayed Past Expectation,13
+ORD-012850,Completed & Restocked,Sizing / Fit Issue,4
+ORD-012852,Completed & Restocked,Item Not as Pictured / Described,3
+ORD-012853,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012854,Liquidated,Sizing / Fit Issue,7
+ORD-012856,Liquidated,Delivery Delayed Past Expectation,14
+ORD-012858,Scrapped / Recycled,Sizing / Fit Issue,17
+ORD-012860,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-012863,Liquidated,Sizing / Fit Issue,15
+ORD-012866,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-012870,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-012873,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-012875,Completed & Restocked,Defective / Damaged Item,14
+ORD-012877,Inspected & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-012879,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-012882,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012883,Completed & Restocked,Sizing / Fit Issue,6
+ORD-012888,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-012892,Completed & Restocked,Item Not as Pictured / Described,9
+ORD-012894,Completed & Restocked,Sizing / Fit Issue,15
+ORD-012901,Completed & Restocked,Sizing / Fit Issue,12
+ORD-012902,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-012903,Completed & Restocked,Sizing / Fit Issue,9
+ORD-012905,Liquidated,Sizing / Fit Issue,15
+ORD-012909,Completed & Restocked,Sizing / Fit Issue,3
+ORD-012916,Completed & Restocked,Sizing / Fit Issue,7
+ORD-012919,Scrapped / Recycled,Sizing / Fit Issue,20
+ORD-012925,Completed & Restocked,Defective / Damaged Item,17
+ORD-012929,Completed & Restocked,Sizing / Fit Issue,16
+ORD-012932,Inspected & Restocked,Item Not as Pictured / Described,9
+ORD-012942,Inspected & Restocked,Delivery Delayed Past Expectation,10
+ORD-012944,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-012946,Completed & Restocked,Sizing / Fit Issue,17
+ORD-012956,Completed & Restocked,Sizing / Fit Issue,8
+ORD-012959,Completed & Restocked,Sizing / Fit Issue,17
+ORD-012961,Completed & Restocked,Sizing / Fit Issue,10
+ORD-012965,Liquidated,Sizing / Fit Issue,20
+ORD-012967,Completed & Restocked,Buyer's Remorse / Changed Mind,3
+ORD-012968,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-012969,Inspected & Restocked,Defective / Damaged Item,10
+ORD-012972,Inspected & Restocked,Defective / Damaged Item,12
+ORD-012973,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-012976,Scrapped / Recycled,Delivery Delayed Past Expectation,8
+ORD-012980,Completed & Restocked,Defective / Damaged Item,3
+ORD-012981,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-012984,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-012986,Completed & Restocked,Defective / Damaged Item,3
+ORD-012989,Liquidated,Sizing / Fit Issue,19
+ORD-012992,Completed & Restocked,Sizing / Fit Issue,3
+ORD-012995,Inspected & Restocked,Wrong Item Shipped,4
+ORD-012996,Completed & Restocked,Sizing / Fit Issue,3
+ORD-012997,Liquidated,Sizing / Fit Issue,10
+ORD-012999,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-013002,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-013004,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-013006,Completed & Restocked,Sizing / Fit Issue,12
+ORD-013008,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-013009,Completed & Restocked,Sizing / Fit Issue,15
+ORD-013011,Liquidated,Item Not as Pictured / Described,12
+ORD-013014,Completed & Restocked,Wrong Item Shipped,18
+ORD-013022,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-013025,Liquidated,Sizing / Fit Issue,6
+ORD-013026,Liquidated,Delivery Delayed Past Expectation,16
+ORD-013027,Liquidated,Delivery Delayed Past Expectation,18
+ORD-013033,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-013036,Completed & Restocked,Sizing / Fit Issue,11
+ORD-013041,Completed & Restocked,Sizing / Fit Issue,16
+ORD-013043,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-013046,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-013050,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013057,Completed & Restocked,Sizing / Fit Issue,15
+ORD-013058,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013061,Completed & Restocked,Defective / Damaged Item,17
+ORD-013063,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-013067,Completed & Restocked,Sizing / Fit Issue,8
+ORD-013077,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-013082,Completed & Restocked,Sizing / Fit Issue,9
+ORD-013084,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013091,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-013093,Scrapped / Recycled,Delivery Delayed Past Expectation,10
+ORD-013097,Scrapped / Recycled,Delivery Delayed Past Expectation,10
+ORD-013099,Completed & Restocked,Sizing / Fit Issue,17
+ORD-013103,Completed & Restocked,Item Not as Pictured / Described,7
+ORD-013108,Liquidated,Buyer's Remorse / Changed Mind,14
+ORD-013112,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-013114,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-013120,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-013129,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-013130,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-013131,Completed & Restocked,Sizing / Fit Issue,5
+ORD-013132,Completed & Restocked,Sizing / Fit Issue,14
+ORD-013133,Completed & Restocked,Sizing / Fit Issue,3
+ORD-013138,Liquidated,Sizing / Fit Issue,14
+ORD-013140,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-013142,Completed & Restocked,Defective / Damaged Item,7
+ORD-013143,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-013145,Liquidated,Item Not as Pictured / Described,19
+ORD-013147,Liquidated,Delivery Delayed Past Expectation,11
+ORD-013151,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-013152,Completed & Restocked,Defective / Damaged Item,11
+ORD-013159,Completed & Restocked,Item Not as Pictured / Described,18
+ORD-013164,Completed & Restocked,Defective / Damaged Item,14
+ORD-013165,Liquidated,Delivery Delayed Past Expectation,16
+ORD-013166,Completed & Restocked,Sizing / Fit Issue,15
+ORD-013169,Liquidated,Sizing / Fit Issue,3
+ORD-013172,Inspected & Restocked,Buyer's Remorse / Changed Mind,21
+ORD-013176,Inspected & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-013181,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-013188,Completed & Restocked,Sizing / Fit Issue,10
+ORD-013190,Completed & Restocked,Sizing / Fit Issue,23
+ORD-013194,Completed & Restocked,Item Not as Pictured / Described,4
+ORD-013200,Completed & Restocked,Wrong Item Shipped,12
+ORD-013201,Inspected & Restocked,Buyer's Remorse / Changed Mind,3
+ORD-013203,Scrapped / Recycled,Defective / Damaged Item,16
+ORD-013209,Liquidated,Sizing / Fit Issue,9
+ORD-013211,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-013215,Completed & Restocked,Sizing / Fit Issue,12
+ORD-013218,Liquidated,Defective / Damaged Item,8
+ORD-013221,Liquidated,Sizing / Fit Issue,9
+ORD-013222,Inspected & Restocked,Defective / Damaged Item,6
+ORD-013224,Liquidated,Buyer's Remorse / Changed Mind,5
+ORD-013225,Inspected & Restocked,Sizing / Fit Issue,24
+ORD-013233,Completed & Restocked,Buyer's Remorse / Changed Mind,5
+ORD-013241,Completed & Restocked,Sizing / Fit Issue,19
+ORD-013250,Completed & Restocked,Sizing / Fit Issue,12
+ORD-013252,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-013253,Completed & Restocked,Defective / Damaged Item,23
+ORD-013255,Completed & Restocked,Sizing / Fit Issue,10
+ORD-013256,Liquidated,Item Not as Pictured / Described,14
+ORD-013261,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-013262,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-013263,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-013269,Completed & Restocked,Sizing / Fit Issue,10
+ORD-013270,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-013271,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-013273,Completed & Restocked,Sizing / Fit Issue,14
+ORD-013275,Liquidated,Sizing / Fit Issue,7
+ORD-013277,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-013278,Completed & Restocked,Sizing / Fit Issue,19
+ORD-013284,Completed & Restocked,Sizing / Fit Issue,3
+ORD-013286,Liquidated,Sizing / Fit Issue,3
+ORD-013288,Completed & Restocked,Sizing / Fit Issue,18
+ORD-013289,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-013290,Completed & Restocked,Item Not as Pictured / Described,20
+ORD-013298,Completed & Restocked,Sizing / Fit Issue,10
+ORD-013302,Completed & Restocked,Sizing / Fit Issue,5
+ORD-013305,Inspected & Restocked,Buyer's Remorse / Changed Mind,18
+ORD-013308,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013309,Completed & Restocked,Delivery Delayed Past Expectation,21
+ORD-013318,Liquidated,Sizing / Fit Issue,9
+ORD-013326,Liquidated,Item Not as Pictured / Described,8
+ORD-013327,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-013328,Liquidated,Sizing / Fit Issue,14
+ORD-013335,Liquidated,Defective / Damaged Item,3
+ORD-013339,Completed & Restocked,Sizing / Fit Issue,18
+ORD-013348,Completed & Restocked,Sizing / Fit Issue,7
+ORD-013349,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-013353,Completed & Restocked,Sizing / Fit Issue,6
+ORD-013359,Inspected & Restocked,Item Not as Pictured / Described,14
+ORD-013365,Completed & Restocked,Sizing / Fit Issue,14
+ORD-013366,Scrapped / Recycled,Buyer's Remorse / Changed Mind,21
+ORD-013369,Completed & Restocked,Sizing / Fit Issue,10
+ORD-013373,Inspected & Restocked,Item Not as Pictured / Described,6
+ORD-013374,Completed & Restocked,Sizing / Fit Issue,17
+ORD-013375,Completed & Restocked,Sizing / Fit Issue,17
+ORD-013378,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013383,Inspected & Restocked,Defective / Damaged Item,9
+ORD-013393,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-013399,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013402,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013405,Completed & Restocked,Sizing / Fit Issue,4
+ORD-013409,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-013417,Completed & Restocked,Defective / Damaged Item,6
+ORD-013418,Liquidated,Sizing / Fit Issue,10
+ORD-013419,Completed & Restocked,Sizing / Fit Issue,16
+ORD-013428,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-013430,Completed & Restocked,Sizing / Fit Issue,10
+ORD-013436,Completed & Restocked,Sizing / Fit Issue,19
+ORD-013440,Liquidated,Sizing / Fit Issue,14
+ORD-013442,Completed & Restocked,Defective / Damaged Item,8
+ORD-013443,Completed & Restocked,Defective / Damaged Item,9
+ORD-013445,Completed & Restocked,Sizing / Fit Issue,19
+ORD-013447,Liquidated,Sizing / Fit Issue,17
+ORD-013448,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-013455,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-013460,Scrapped / Recycled,Delivery Delayed Past Expectation,15
+ORD-013463,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-013469,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-013474,Completed & Restocked,Sizing / Fit Issue,10
+ORD-013475,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-013480,Completed & Restocked,Defective / Damaged Item,6
+ORD-013481,Scrapped / Recycled,Sizing / Fit Issue,17
+ORD-013486,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-013489,Completed & Restocked,Delivery Delayed Past Expectation,4
+ORD-013494,Completed & Restocked,Sizing / Fit Issue,12
+ORD-013495,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-013497,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-013505,Completed & Restocked,Sizing / Fit Issue,10
+ORD-013506,Completed & Restocked,Sizing / Fit Issue,17
+ORD-013507,Liquidated,Delivery Delayed Past Expectation,15
+ORD-013509,Completed & Restocked,Defective / Damaged Item,8
+ORD-013510,Liquidated,Sizing / Fit Issue,14
+ORD-013515,Inspected & Restocked,Item Not as Pictured / Described,8
+ORD-013523,Completed & Restocked,Sizing / Fit Issue,8
+ORD-013524,Inspected & Restocked,Delivery Delayed Past Expectation,6
+ORD-013526,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-013529,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-013531,Completed & Restocked,Item Not as Pictured / Described,19
+ORD-013534,Liquidated,Sizing / Fit Issue,10
+ORD-013544,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-013547,Completed & Restocked,Sizing / Fit Issue,17
+ORD-013549,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-013551,Completed & Restocked,Sizing / Fit Issue,22
+ORD-013554,Liquidated,Sizing / Fit Issue,9
+ORD-013555,Completed & Restocked,Sizing / Fit Issue,6
+ORD-013559,Liquidated,Defective / Damaged Item,7
+ORD-013566,Completed & Restocked,Item Not as Pictured / Described,18
+ORD-013568,Completed & Restocked,Defective / Damaged Item,7
+ORD-013570,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-013575,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-013579,Completed & Restocked,Defective / Damaged Item,10
+ORD-013581,Completed & Restocked,Sizing / Fit Issue,12
+ORD-013582,Completed & Restocked,Defective / Damaged Item,5
+ORD-013585,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-013586,Inspected & Restocked,Item Not as Pictured / Described,21
+ORD-013589,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-013590,Completed & Restocked,Defective / Damaged Item,12
+ORD-013593,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-013594,Scrapped / Recycled,Sizing / Fit Issue,3
+ORD-013599,Scrapped / Recycled,Defective / Damaged Item,9
+ORD-013602,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-013605,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-013606,Completed & Restocked,Sizing / Fit Issue,18
+ORD-013616,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-013620,Completed & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-013625,Completed & Restocked,Defective / Damaged Item,13
+ORD-013629,Completed & Restocked,Sizing / Fit Issue,17
+ORD-013631,Completed & Restocked,Sizing / Fit Issue,9
+ORD-013638,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-013640,Completed & Restocked,Defective / Damaged Item,24
+ORD-013646,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-013649,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-013657,Completed & Restocked,Sizing / Fit Issue,14
+ORD-013658,Completed & Restocked,Sizing / Fit Issue,17
+ORD-013670,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-013679,Completed & Restocked,Sizing / Fit Issue,19
+ORD-013691,Completed & Restocked,Defective / Damaged Item,13
+ORD-013692,Completed & Restocked,Sizing / Fit Issue,16
+ORD-013697,Liquidated,Item Not as Pictured / Described,3
+ORD-013699,Completed & Restocked,Buyer's Remorse / Changed Mind,6
+ORD-013702,Inspected & Restocked,Defective / Damaged Item,8
+ORD-013711,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-013717,Completed & Restocked,Sizing / Fit Issue,7
+ORD-013720,Completed & Restocked,Sizing / Fit Issue,5
+ORD-013721,Completed & Restocked,Sizing / Fit Issue,11
+ORD-013727,Completed & Restocked,Defective / Damaged Item,13
+ORD-013729,Completed & Restocked,Sizing / Fit Issue,22
+ORD-013734,Completed & Restocked,Sizing / Fit Issue,10
+ORD-013740,Inspected & Restocked,Defective / Damaged Item,13
+ORD-013745,Completed & Restocked,Sizing / Fit Issue,5
+ORD-013750,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-013751,Inspected & Restocked,Defective / Damaged Item,13
+ORD-013752,Liquidated,Defective / Damaged Item,15
+ORD-013753,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-013756,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-013760,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-013766,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-013768,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-013771,Inspected & Restocked,Defective / Damaged Item,21
+ORD-013777,Completed & Restocked,Defective / Damaged Item,10
+ORD-013780,Completed & Restocked,Sizing / Fit Issue,16
+ORD-013783,Completed & Restocked,Sizing / Fit Issue,8
+ORD-013787,Inspected & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-013790,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-013798,Completed & Restocked,Sizing / Fit Issue,14
+ORD-013799,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-013801,Liquidated,Sizing / Fit Issue,9
+ORD-013804,Completed & Restocked,Buyer's Remorse / Changed Mind,17
+ORD-013806,Completed & Restocked,Defective / Damaged Item,18
+ORD-013807,Inspected & Restocked,Sizing / Fit Issue,22
+ORD-013809,Inspected & Restocked,Delivery Delayed Past Expectation,3
+ORD-013814,Completed & Restocked,Sizing / Fit Issue,9
+ORD-013815,Completed & Restocked,Wrong Item Shipped,16
+ORD-013817,Completed & Restocked,Sizing / Fit Issue,21
+ORD-013818,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-013822,Completed & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-013825,Completed & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-013826,Liquidated,Sizing / Fit Issue,14
+ORD-013827,Completed & Restocked,Delivery Delayed Past Expectation,4
+ORD-013830,Completed & Restocked,Sizing / Fit Issue,9
+ORD-013832,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-013835,Completed & Restocked,Sizing / Fit Issue,15
+ORD-013841,Completed & Restocked,Defective / Damaged Item,8
+ORD-013845,Scrapped / Recycled,Sizing / Fit Issue,16
+ORD-013850,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-013851,Completed & Restocked,Defective / Damaged Item,7
+ORD-013854,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-013855,Completed & Restocked,Sizing / Fit Issue,9
+ORD-013859,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-013861,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-013864,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013865,Inspected & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-013866,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-013873,Completed & Restocked,Wrong Item Shipped,9
+ORD-013876,Completed & Restocked,Delivery Delayed Past Expectation,24
+ORD-013877,Inspected & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-013878,Completed & Restocked,Sizing / Fit Issue,18
+ORD-013885,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-013887,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-013890,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-013894,Completed & Restocked,Item Not as Pictured / Described,5
+ORD-013898,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-013900,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-013902,Completed & Restocked,Sizing / Fit Issue,15
+ORD-013909,Completed & Restocked,Sizing / Fit Issue,19
+ORD-013910,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-013911,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013914,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-013917,Inspected & Restocked,Buyer's Remorse / Changed Mind,3
+ORD-013922,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-013925,Completed & Restocked,Item Not as Pictured / Described,6
+ORD-013929,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-013933,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-013934,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-013936,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-013937,Completed & Restocked,Sizing / Fit Issue,13
+ORD-013943,Inspected & Restocked,Defective / Damaged Item,12
+ORD-013952,Liquidated,Buyer's Remorse / Changed Mind,16
+ORD-013954,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-013955,Completed & Restocked,Sizing / Fit Issue,8
+ORD-013967,Completed & Restocked,Sizing / Fit Issue,18
+ORD-013971,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-013973,Completed & Restocked,Sizing / Fit Issue,5
+ORD-013977,Completed & Restocked,Sizing / Fit Issue,3
+ORD-013980,Completed & Restocked,Sizing / Fit Issue,12
+ORD-013984,Completed & Restocked,Sizing / Fit Issue,9
+ORD-013992,Completed & Restocked,Sizing / Fit Issue,16
+ORD-013993,Completed & Restocked,Sizing / Fit Issue,11
+ORD-013997,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-013998,Liquidated,Sizing / Fit Issue,10
+ORD-014001,Completed & Restocked,Sizing / Fit Issue,9
+ORD-014008,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-014011,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-014012,Completed & Restocked,Sizing / Fit Issue,7
+ORD-014013,Completed & Restocked,Buyer's Remorse / Changed Mind,18
+ORD-014015,Completed & Restocked,Sizing / Fit Issue,7
+ORD-014017,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-014023,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-014032,Completed & Restocked,Defective / Damaged Item,14
+ORD-014033,Completed & Restocked,Sizing / Fit Issue,20
+ORD-014043,Completed & Restocked,Sizing / Fit Issue,10
+ORD-014045,Completed & Restocked,Sizing / Fit Issue,14
+ORD-014047,Completed & Restocked,Sizing / Fit Issue,10
+ORD-014049,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-014053,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-014058,Inspected & Restocked,Defective / Damaged Item,9
+ORD-014061,Completed & Restocked,Defective / Damaged Item,20
+ORD-014066,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-014078,Liquidated,Sizing / Fit Issue,12
+ORD-014080,Completed & Restocked,Defective / Damaged Item,7
+ORD-014085,Inspected & Restocked,Item Not as Pictured / Described,12
+ORD-014087,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-014090,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-014094,Inspected & Restocked,Item Not as Pictured / Described,16
+ORD-014102,Completed & Restocked,Defective / Damaged Item,10
+ORD-014103,Completed & Restocked,Sizing / Fit Issue,8
+ORD-014106,Liquidated,Sizing / Fit Issue,15
+ORD-014110,Inspected & Restocked,Defective / Damaged Item,12
+ORD-014111,Completed & Restocked,Sizing / Fit Issue,10
+ORD-014120,Completed & Restocked,Defective / Damaged Item,10
+ORD-014121,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-014128,Completed & Restocked,Sizing / Fit Issue,5
+ORD-014138,Completed & Restocked,Sizing / Fit Issue,15
+ORD-014139,Liquidated,Sizing / Fit Issue,4
+ORD-014143,Completed & Restocked,Sizing / Fit Issue,13
+ORD-014144,Completed & Restocked,Sizing / Fit Issue,7
+ORD-014146,Completed & Restocked,Sizing / Fit Issue,12
+ORD-014147,Completed & Restocked,Sizing / Fit Issue,20
+ORD-014149,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-014150,Completed & Restocked,Defective / Damaged Item,13
+ORD-014153,Completed & Restocked,Defective / Damaged Item,17
+ORD-014154,Completed & Restocked,Sizing / Fit Issue,11
+ORD-014157,Completed & Restocked,Defective / Damaged Item,13
+ORD-014162,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-014167,Completed & Restocked,Sizing / Fit Issue,11
+ORD-014169,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-014178,Completed & Restocked,Sizing / Fit Issue,3
+ORD-014182,Inspected & Restocked,Defective / Damaged Item,11
+ORD-014190,Completed & Restocked,Sizing / Fit Issue,14
+ORD-014191,Liquidated,Item Not as Pictured / Described,4
+ORD-014200,Scrapped / Recycled,Delivery Delayed Past Expectation,8
+ORD-014205,Completed & Restocked,Defective / Damaged Item,10
+ORD-014206,Inspected & Restocked,Sizing / Fit Issue,23
+ORD-014207,Completed & Restocked,Defective / Damaged Item,17
+ORD-014209,Liquidated,Sizing / Fit Issue,4
+ORD-014211,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-014213,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-014218,Completed & Restocked,Sizing / Fit Issue,16
+ORD-014223,Inspected & Restocked,Item Not as Pictured / Described,16
+ORD-014225,Inspected & Restocked,Item Not as Pictured / Described,18
+ORD-014227,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-014231,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-014237,Scrapped / Recycled,Delivery Delayed Past Expectation,5
+ORD-014254,Inspected & Restocked,Defective / Damaged Item,19
+ORD-014259,Liquidated,Sizing / Fit Issue,17
+ORD-014266,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-014267,Scrapped / Recycled,Buyer's Remorse / Changed Mind,14
+ORD-014269,Scrapped / Recycled,Sizing / Fit Issue,3
+ORD-014270,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-014271,Completed & Restocked,Defective / Damaged Item,16
+ORD-014280,Completed & Restocked,Wrong Item Shipped,8
+ORD-014282,Liquidated,Delivery Delayed Past Expectation,19
+ORD-014287,Liquidated,Sizing / Fit Issue,16
+ORD-014289,Completed & Restocked,Sizing / Fit Issue,9
+ORD-014292,Completed & Restocked,Buyer's Remorse / Changed Mind,17
+ORD-014294,Completed & Restocked,Sizing / Fit Issue,17
+ORD-014298,Completed & Restocked,Defective / Damaged Item,3
+ORD-014299,Inspected & Restocked,Buyer's Remorse / Changed Mind,17
+ORD-014302,Completed & Restocked,Sizing / Fit Issue,10
+ORD-014303,Completed & Restocked,Sizing / Fit Issue,13
+ORD-014311,Completed & Restocked,Sizing / Fit Issue,6
+ORD-014312,Inspected & Restocked,Sizing / Fit Issue,30
+ORD-014314,Completed & Restocked,Delivery Delayed Past Expectation,20
+ORD-014320,Inspected & Restocked,Sizing / Fit Issue,26
+ORD-014321,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-014326,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-014328,Completed & Restocked,Sizing / Fit Issue,12
+ORD-014330,Liquidated,Buyer's Remorse / Changed Mind,9
+ORD-014336,Inspected & Restocked,Delivery Delayed Past Expectation,20
+ORD-014337,Completed & Restocked,Sizing / Fit Issue,18
+ORD-014341,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-014342,Completed & Restocked,Sizing / Fit Issue,21
+ORD-014343,Completed & Restocked,Defective / Damaged Item,14
+ORD-014350,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-014354,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-014356,Completed & Restocked,Sizing / Fit Issue,14
+ORD-014365,Completed & Restocked,Sizing / Fit Issue,13
+ORD-014367,Completed & Restocked,Defective / Damaged Item,12
+ORD-014375,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-014380,Liquidated,Sizing / Fit Issue,3
+ORD-014390,Liquidated,Sizing / Fit Issue,8
+ORD-014392,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-014394,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-014400,Completed & Restocked,Sizing / Fit Issue,14
+ORD-014401,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-014404,Completed & Restocked,Sizing / Fit Issue,13
+ORD-014407,Completed & Restocked,Defective / Damaged Item,14
+ORD-014408,Completed & Restocked,Sizing / Fit Issue,3
+ORD-014409,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-014414,Liquidated,Defective / Damaged Item,6
+ORD-014416,Inspected & Restocked,Delivery Delayed Past Expectation,15
+ORD-014421,Completed & Restocked,Sizing / Fit Issue,8
+ORD-014428,Inspected & Restocked,Item Not as Pictured / Described,12
+ORD-014435,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-014439,Inspected & Restocked,Sizing / Fit Issue,24
+ORD-014442,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-014445,Completed & Restocked,Sizing / Fit Issue,13
+ORD-014453,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-014460,Completed & Restocked,Buyer's Remorse / Changed Mind,16
+ORD-014462,Scrapped / Recycled,Sizing / Fit Issue,6
+ORD-014467,Completed & Restocked,Sizing / Fit Issue,14
+ORD-014468,Completed & Restocked,Sizing / Fit Issue,6
+ORD-014470,Completed & Restocked,Sizing / Fit Issue,14
+ORD-014477,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-014478,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-014479,Scrapped / Recycled,Item Not as Pictured / Described,11
+ORD-014481,Completed & Restocked,Sizing / Fit Issue,21
+ORD-014484,Completed & Restocked,Sizing / Fit Issue,12
+ORD-014487,Inspected & Restocked,Defective / Damaged Item,15
+ORD-014492,Liquidated,Sizing / Fit Issue,12
+ORD-014493,Inspected & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-014504,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-014508,Completed & Restocked,Sizing / Fit Issue,3
+ORD-014512,Completed & Restocked,Sizing / Fit Issue,12
+ORD-014517,Liquidated,Delivery Delayed Past Expectation,16
+ORD-014533,Liquidated,Sizing / Fit Issue,14
+ORD-014536,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-014539,Liquidated,Sizing / Fit Issue,13
+ORD-014540,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-014542,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-014547,Inspected & Restocked,Item Not as Pictured / Described,11
+ORD-014552,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-014559,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-014560,Completed & Restocked,Sizing / Fit Issue,4
+ORD-014561,Completed & Restocked,Sizing / Fit Issue,16
+ORD-014563,Completed & Restocked,Sizing / Fit Issue,10
+ORD-014571,Completed & Restocked,Sizing / Fit Issue,13
+ORD-014573,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-014581,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-014582,Completed & Restocked,Sizing / Fit Issue,15
+ORD-014586,Completed & Restocked,Sizing / Fit Issue,13
+ORD-014588,Completed & Restocked,Sizing / Fit Issue,18
+ORD-014589,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-014590,Completed & Restocked,Sizing / Fit Issue,15
+ORD-014591,Inspected & Restocked,Defective / Damaged Item,10
+ORD-014594,Inspected & Restocked,Delivery Delayed Past Expectation,6
+ORD-014597,Completed & Restocked,Defective / Damaged Item,3
+ORD-014599,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-014603,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-014606,Completed & Restocked,Defective / Damaged Item,11
+ORD-014621,Completed & Restocked,Sizing / Fit Issue,11
+ORD-014622,Completed & Restocked,Buyer's Remorse / Changed Mind,5
+ORD-014635,Inspected & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-014636,Inspected & Restocked,Delivery Delayed Past Expectation,6
+ORD-014638,Inspected & Restocked,Defective / Damaged Item,7
+ORD-014639,Inspected & Restocked,Defective / Damaged Item,15
+ORD-014642,Completed & Restocked,Delivery Delayed Past Expectation,22
+ORD-014664,Inspected & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-014665,Liquidated,Defective / Damaged Item,13
+ORD-014679,Inspected & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-014682,Completed & Restocked,Sizing / Fit Issue,9
+ORD-014690,Completed & Restocked,Sizing / Fit Issue,11
+ORD-014692,Liquidated,Sizing / Fit Issue,8
+ORD-014694,Completed & Restocked,Defective / Damaged Item,19
+ORD-014695,Completed & Restocked,Sizing / Fit Issue,9
+ORD-014696,Scrapped / Recycled,Buyer's Remorse / Changed Mind,11
+ORD-014701,Liquidated,Delivery Delayed Past Expectation,19
+ORD-014705,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-014707,Completed & Restocked,Sizing / Fit Issue,17
+ORD-014717,Completed & Restocked,Delivery Delayed Past Expectation,21
+ORD-014721,Liquidated,Sizing / Fit Issue,11
+ORD-014723,Completed & Restocked,Sizing / Fit Issue,8
+ORD-014724,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-014729,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-014732,Inspected & Restocked,Defective / Damaged Item,19
+ORD-014736,Inspected & Restocked,Defective / Damaged Item,7
+ORD-014740,Completed & Restocked,Sizing / Fit Issue,19
+ORD-014741,Completed & Restocked,Sizing / Fit Issue,10
+ORD-014742,Completed & Restocked,Wrong Item Shipped,11
+ORD-014746,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-014758,Liquidated,Sizing / Fit Issue,5
+ORD-014761,Completed & Restocked,Sizing / Fit Issue,21
+ORD-014765,Completed & Restocked,Sizing / Fit Issue,6
+ORD-014768,Completed & Restocked,Sizing / Fit Issue,3
+ORD-014769,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-014770,Liquidated,Buyer's Remorse / Changed Mind,13
+ORD-014773,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-014776,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-014780,Liquidated,Sizing / Fit Issue,14
+ORD-014782,Completed & Restocked,Sizing / Fit Issue,8
+ORD-014784,Liquidated,Wrong Item Shipped,16
+ORD-014788,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-014796,Liquidated,Delivery Delayed Past Expectation,8
+ORD-014797,Liquidated,Sizing / Fit Issue,9
+ORD-014800,Completed & Restocked,Defective / Damaged Item,13
+ORD-014803,Liquidated,Sizing / Fit Issue,18
+ORD-014806,Completed & Restocked,Delivery Delayed Past Expectation,22
+ORD-014809,Completed & Restocked,Defective / Damaged Item,23
+ORD-014810,Completed & Restocked,Sizing / Fit Issue,12
+ORD-014811,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-014818,Completed & Restocked,Sizing / Fit Issue,11
+ORD-014820,Completed & Restocked,Sizing / Fit Issue,7
+ORD-014822,Completed & Restocked,Wrong Item Shipped,19
+ORD-014829,Completed & Restocked,Sizing / Fit Issue,3
+ORD-014832,Completed & Restocked,Sizing / Fit Issue,8
+ORD-014835,Liquidated,Sizing / Fit Issue,6
+ORD-014839,Completed & Restocked,Sizing / Fit Issue,12
+ORD-014843,Completed & Restocked,Sizing / Fit Issue,4
+ORD-014846,Inspected & Restocked,Defective / Damaged Item,16
+ORD-014848,Completed & Restocked,Sizing / Fit Issue,12
+ORD-014849,Completed & Restocked,Sizing / Fit Issue,11
+ORD-014851,Completed & Restocked,Defective / Damaged Item,5
+ORD-014852,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-014855,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-014856,Completed & Restocked,Sizing / Fit Issue,6
+ORD-014872,Liquidated,Sizing / Fit Issue,14
+ORD-014875,Completed & Restocked,Sizing / Fit Issue,16
+ORD-014879,Completed & Restocked,Sizing / Fit Issue,19
+ORD-014882,Completed & Restocked,Sizing / Fit Issue,10
+ORD-014883,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-014884,Completed & Restocked,Sizing / Fit Issue,13
+ORD-014886,Liquidated,Sizing / Fit Issue,14
+ORD-014893,Liquidated,Delivery Delayed Past Expectation,3
+ORD-014896,Inspected & Restocked,Sizing / Fit Issue,22
+ORD-014899,Inspected & Restocked,Delivery Delayed Past Expectation,13
+ORD-014904,Completed & Restocked,Item Not as Pictured / Described,9
+ORD-014908,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-014913,Liquidated,Sizing / Fit Issue,13
+ORD-014914,Scrapped / Recycled,Sizing / Fit Issue,3
+ORD-014922,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-014925,Inspected & Restocked,Wrong Item Shipped,17
+ORD-014933,Liquidated,Sizing / Fit Issue,12
+ORD-014935,Completed & Restocked,Sizing / Fit Issue,15
+ORD-014941,Completed & Restocked,Sizing / Fit Issue,7
+ORD-014942,Inspected & Restocked,Delivery Delayed Past Expectation,6
+ORD-014944,Completed & Restocked,Buyer's Remorse / Changed Mind,5
+ORD-014945,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-014947,Completed & Restocked,Sizing / Fit Issue,3
+ORD-014949,Completed & Restocked,Sizing / Fit Issue,12
+ORD-014952,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-014956,Scrapped / Recycled,Sizing / Fit Issue,28
+ORD-014957,Completed & Restocked,Sizing / Fit Issue,15
+ORD-014972,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-014977,Completed & Restocked,Sizing / Fit Issue,7
+ORD-014981,Completed & Restocked,Defective / Damaged Item,13
+ORD-014982,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-014986,Completed & Restocked,Item Not as Pictured / Described,7
+ORD-014988,Completed & Restocked,Sizing / Fit Issue,17
+ORD-014993,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-014994,Completed & Restocked,Sizing / Fit Issue,8
+ORD-014995,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-014998,Inspected & Restocked,Delivery Delayed Past Expectation,18
+ORD-015009,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-015010,Completed & Restocked,Defective / Damaged Item,11
+ORD-015011,Completed & Restocked,Defective / Damaged Item,13
+ORD-015023,Completed & Restocked,Sizing / Fit Issue,13
+ORD-015028,Liquidated,Sizing / Fit Issue,11
+ORD-015030,Completed & Restocked,Sizing / Fit Issue,5
+ORD-015031,Completed & Restocked,Sizing / Fit Issue,14
+ORD-015033,Completed & Restocked,Sizing / Fit Issue,19
+ORD-015036,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-015038,Completed & Restocked,Buyer's Remorse / Changed Mind,20
+ORD-015039,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-015041,Completed & Restocked,Buyer's Remorse / Changed Mind,3
+ORD-015045,Inspected & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-015049,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-015051,Liquidated,Sizing / Fit Issue,10
+ORD-015054,Completed & Restocked,Sizing / Fit Issue,10
+ORD-015064,Liquidated,Defective / Damaged Item,15
+ORD-015069,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-015070,Completed & Restocked,Sizing / Fit Issue,16
+ORD-015072,Liquidated,Sizing / Fit Issue,14
+ORD-015073,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-015074,Completed & Restocked,Sizing / Fit Issue,21
+ORD-015083,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-015085,Inspected & Restocked,Defective / Damaged Item,9
+ORD-015086,Completed & Restocked,Sizing / Fit Issue,6
+ORD-015089,Completed & Restocked,Defective / Damaged Item,12
+ORD-015092,Liquidated,Sizing / Fit Issue,8
+ORD-015093,Scrapped / Recycled,Item Not as Pictured / Described,22
+ORD-015098,Liquidated,Sizing / Fit Issue,11
+ORD-015099,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-015100,Completed & Restocked,Delivery Delayed Past Expectation,22
+ORD-015103,Completed & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-015114,Completed & Restocked,Sizing / Fit Issue,7
+ORD-015116,Inspected & Restocked,Delivery Delayed Past Expectation,14
+ORD-015117,Completed & Restocked,Defective / Damaged Item,10
+ORD-015118,Liquidated,Sizing / Fit Issue,12
+ORD-015123,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-015124,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-015125,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-015126,Inspected & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-015129,Completed & Restocked,Sizing / Fit Issue,13
+ORD-015140,Liquidated,Buyer's Remorse / Changed Mind,14
+ORD-015148,Completed & Restocked,Sizing / Fit Issue,14
+ORD-015151,Completed & Restocked,Sizing / Fit Issue,13
+ORD-015161,Completed & Restocked,Sizing / Fit Issue,3
+ORD-015162,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-015163,Completed & Restocked,Sizing / Fit Issue,24
+ORD-015164,Completed & Restocked,Defective / Damaged Item,15
+ORD-015172,Inspected & Restocked,Buyer's Remorse / Changed Mind,20
+ORD-015178,Completed & Restocked,Defective / Damaged Item,14
+ORD-015179,Completed & Restocked,Buyer's Remorse / Changed Mind,5
+ORD-015181,Completed & Restocked,Defective / Damaged Item,16
+ORD-015188,Completed & Restocked,Sizing / Fit Issue,12
+ORD-015189,Liquidated,Sizing / Fit Issue,29
+ORD-015190,Completed & Restocked,Sizing / Fit Issue,15
+ORD-015194,Completed & Restocked,Sizing / Fit Issue,9
+ORD-015195,Inspected & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-015202,Completed & Restocked,Sizing / Fit Issue,13
+ORD-015204,Liquidated,Item Not as Pictured / Described,24
+ORD-015210,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-015214,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-015218,Completed & Restocked,Wrong Item Shipped,5
+ORD-015219,Liquidated,Sizing / Fit Issue,10
+ORD-015222,Scrapped / Recycled,Sizing / Fit Issue,6
+ORD-015224,Liquidated,Item Not as Pictured / Described,12
+ORD-015229,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-015234,Completed & Restocked,Delivery Delayed Past Expectation,4
+ORD-015236,Liquidated,Sizing / Fit Issue,16
+ORD-015245,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-015246,Completed & Restocked,Buyer's Remorse / Changed Mind,16
+ORD-015250,Completed & Restocked,Sizing / Fit Issue,10
+ORD-015253,Completed & Restocked,Sizing / Fit Issue,9
+ORD-015257,Inspected & Restocked,Delivery Delayed Past Expectation,13
+ORD-015261,Completed & Restocked,Sizing / Fit Issue,16
+ORD-015262,Completed & Restocked,Buyer's Remorse / Changed Mind,25
+ORD-015263,Inspected & Restocked,Delivery Delayed Past Expectation,16
+ORD-015267,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-015275,Completed & Restocked,Sizing / Fit Issue,21
+ORD-015277,Completed & Restocked,Sizing / Fit Issue,13
+ORD-015282,Liquidated,Sizing / Fit Issue,11
+ORD-015283,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-015288,Completed & Restocked,Sizing / Fit Issue,8
+ORD-015289,Completed & Restocked,Sizing / Fit Issue,14
+ORD-015290,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-015299,Liquidated,Defective / Damaged Item,10
+ORD-015306,Completed & Restocked,Item Not as Pictured / Described,20
+ORD-015309,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-015310,Liquidated,Buyer's Remorse / Changed Mind,15
+ORD-015312,Completed & Restocked,Wrong Item Shipped,9
+ORD-015314,Completed & Restocked,Sizing / Fit Issue,12
+ORD-015316,Completed & Restocked,Sizing / Fit Issue,12
+ORD-015320,Completed & Restocked,Sizing / Fit Issue,7
+ORD-015326,Completed & Restocked,Defective / Damaged Item,13
+ORD-015329,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-015333,Inspected & Restocked,Delivery Delayed Past Expectation,3
+ORD-015336,Inspected & Restocked,Defective / Damaged Item,10
+ORD-015337,Completed & Restocked,Defective / Damaged Item,18
+ORD-015339,Completed & Restocked,Sizing / Fit Issue,8
+ORD-015342,Liquidated,Sizing / Fit Issue,12
+ORD-015343,Inspected & Restocked,Delivery Delayed Past Expectation,7
+ORD-015345,Completed & Restocked,Sizing / Fit Issue,5
+ORD-015349,Liquidated,Item Not as Pictured / Described,10
+ORD-015350,Completed & Restocked,Defective / Damaged Item,5
+ORD-015353,Liquidated,Delivery Delayed Past Expectation,6
+ORD-015355,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-015359,Completed & Restocked,Sizing / Fit Issue,14
+ORD-015360,Completed & Restocked,Buyer's Remorse / Changed Mind,5
+ORD-015361,Inspected & Restocked,Item Not as Pictured / Described,13
+ORD-015366,Completed & Restocked,Sizing / Fit Issue,7
+ORD-015370,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-015373,Completed & Restocked,Sizing / Fit Issue,9
+ORD-015383,Completed & Restocked,Sizing / Fit Issue,11
+ORD-015384,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-015386,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-015388,Completed & Restocked,Defective / Damaged Item,7
+ORD-015394,Liquidated,Delivery Delayed Past Expectation,14
+ORD-015401,Completed & Restocked,Wrong Item Shipped,15
+ORD-015402,Inspected & Restocked,Sizing / Fit Issue,25
+ORD-015405,Completed & Restocked,Defective / Damaged Item,5
+ORD-015406,Completed & Restocked,Defective / Damaged Item,15
+ORD-015415,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-015416,Inspected & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-015419,Inspected & Restocked,Defective / Damaged Item,12
+ORD-015420,Liquidated,Sizing / Fit Issue,18
+ORD-015427,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-015432,Inspected & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-015433,Completed & Restocked,Sizing / Fit Issue,12
+ORD-015434,Completed & Restocked,Defective / Damaged Item,14
+ORD-015439,Inspected & Restocked,Item Not as Pictured / Described,4
+ORD-015445,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-015450,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-015452,Completed & Restocked,Sizing / Fit Issue,12
+ORD-015454,Completed & Restocked,Sizing / Fit Issue,17
+ORD-015461,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-015462,Scrapped / Recycled,Delivery Delayed Past Expectation,4
+ORD-015463,Completed & Restocked,Sizing / Fit Issue,6
+ORD-015467,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-015468,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-015469,Inspected & Restocked,Item Not as Pictured / Described,12
+ORD-015470,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-015478,Liquidated,Sizing / Fit Issue,16
+ORD-015479,Completed & Restocked,Sizing / Fit Issue,21
+ORD-015482,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-015483,Liquidated,Delivery Delayed Past Expectation,16
+ORD-015485,Inspected & Restocked,Defective / Damaged Item,16
+ORD-015488,Inspected & Restocked,Defective / Damaged Item,7
+ORD-015492,Liquidated,Sizing / Fit Issue,12
+ORD-015496,Completed & Restocked,Sizing / Fit Issue,3
+ORD-015500,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-015501,Liquidated,Defective / Damaged Item,10
+ORD-015505,Scrapped / Recycled,Item Not as Pictured / Described,7
+ORD-015507,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-015512,Completed & Restocked,Sizing / Fit Issue,11
+ORD-015517,Completed & Restocked,Sizing / Fit Issue,11
+ORD-015519,Completed & Restocked,Wrong Item Shipped,21
+ORD-015521,Completed & Restocked,Sizing / Fit Issue,15
+ORD-015524,Completed & Restocked,Sizing / Fit Issue,18
+ORD-015525,Completed & Restocked,Defective / Damaged Item,15
+ORD-015529,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-015532,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-015534,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-015549,Completed & Restocked,Sizing / Fit Issue,5
+ORD-015557,Completed & Restocked,Defective / Damaged Item,3
+ORD-015560,Completed & Restocked,Sizing / Fit Issue,13
+ORD-015562,Completed & Restocked,Sizing / Fit Issue,15
+ORD-015563,Inspected & Restocked,Wrong Item Shipped,13
+ORD-015568,Completed & Restocked,Wrong Item Shipped,6
+ORD-015574,Liquidated,Sizing / Fit Issue,12
+ORD-015575,Completed & Restocked,Sizing / Fit Issue,17
+ORD-015580,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-015582,Completed & Restocked,Defective / Damaged Item,11
+ORD-015584,Completed & Restocked,Sizing / Fit Issue,3
+ORD-015587,Inspected & Restocked,Item Not as Pictured / Described,18
+ORD-015592,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-015593,Completed & Restocked,Sizing / Fit Issue,5
+ORD-015597,Completed & Restocked,Defective / Damaged Item,8
+ORD-015599,Liquidated,Item Not as Pictured / Described,13
+ORD-015604,Inspected & Restocked,Defective / Damaged Item,5
+ORD-015611,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-015614,Completed & Restocked,Wrong Item Shipped,6
+ORD-015617,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-015618,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-015619,Completed & Restocked,Buyer's Remorse / Changed Mind,17
+ORD-015622,Completed & Restocked,Sizing / Fit Issue,10
+ORD-015623,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-015629,Completed & Restocked,Sizing / Fit Issue,6
+ORD-015631,Inspected & Restocked,Delivery Delayed Past Expectation,7
+ORD-015634,Liquidated,Delivery Delayed Past Expectation,3
+ORD-015636,Scrapped / Recycled,Sizing / Fit Issue,9
+ORD-015640,Completed & Restocked,Sizing / Fit Issue,5
+ORD-015641,Liquidated,Sizing / Fit Issue,8
+ORD-015647,Liquidated,Sizing / Fit Issue,18
+ORD-015648,Completed & Restocked,Sizing / Fit Issue,19
+ORD-015658,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-015662,Completed & Restocked,Sizing / Fit Issue,5
+ORD-015667,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-015669,Completed & Restocked,Defective / Damaged Item,12
+ORD-015670,Liquidated,Sizing / Fit Issue,21
+ORD-015672,Liquidated,Sizing / Fit Issue,8
+ORD-015674,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-015675,Inspected & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-015676,Completed & Restocked,Sizing / Fit Issue,15
+ORD-015679,Scrapped / Recycled,Sizing / Fit Issue,5
+ORD-015689,Completed & Restocked,Buyer's Remorse / Changed Mind,19
+ORD-015691,Inspected & Restocked,Sizing / Fit Issue,23
+ORD-015692,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-015694,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-015695,Completed & Restocked,Sizing / Fit Issue,20
+ORD-015696,Liquidated,Sizing / Fit Issue,16
+ORD-015697,Completed & Restocked,Sizing / Fit Issue,20
+ORD-015700,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-015706,Completed & Restocked,Sizing / Fit Issue,9
+ORD-015709,Completed & Restocked,Sizing / Fit Issue,15
+ORD-015711,Completed & Restocked,Sizing / Fit Issue,10
+ORD-015712,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-015716,Completed & Restocked,Item Not as Pictured / Described,20
+ORD-015718,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-015719,Liquidated,Sizing / Fit Issue,6
+ORD-015720,Completed & Restocked,Sizing / Fit Issue,3
+ORD-015727,Completed & Restocked,Sizing / Fit Issue,11
+ORD-015729,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-015736,Completed & Restocked,Sizing / Fit Issue,15
+ORD-015738,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-015740,Liquidated,Sizing / Fit Issue,12
+ORD-015745,Scrapped / Recycled,Sizing / Fit Issue,8
+ORD-015749,Inspected & Restocked,Delivery Delayed Past Expectation,5
+ORD-015754,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-015755,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-015756,Scrapped / Recycled,Wrong Item Shipped,14
+ORD-015765,Inspected & Restocked,Delivery Delayed Past Expectation,3
+ORD-015773,Completed & Restocked,Defective / Damaged Item,16
+ORD-015775,Inspected & Restocked,Item Not as Pictured / Described,14
+ORD-015776,Completed & Restocked,Sizing / Fit Issue,20
+ORD-015778,Completed & Restocked,Delivery Delayed Past Expectation,4
+ORD-015779,Liquidated,Defective / Damaged Item,9
+ORD-015782,Liquidated,Sizing / Fit Issue,18
+ORD-015785,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-015787,Completed & Restocked,Defective / Damaged Item,18
+ORD-015789,Completed & Restocked,Defective / Damaged Item,10
+ORD-015791,Scrapped / Recycled,Sizing / Fit Issue,8
+ORD-015792,Completed & Restocked,Sizing / Fit Issue,7
+ORD-015797,Liquidated,Item Not as Pictured / Described,11
+ORD-015803,Inspected & Restocked,Defective / Damaged Item,13
+ORD-015807,Completed & Restocked,Sizing / Fit Issue,12
+ORD-015819,Inspected & Restocked,Delivery Delayed Past Expectation,14
+ORD-015827,Completed & Restocked,Defective / Damaged Item,11
+ORD-015828,Completed & Restocked,Sizing / Fit Issue,9
+ORD-015835,Completed & Restocked,Defective / Damaged Item,18
+ORD-015837,Inspected & Restocked,Delivery Delayed Past Expectation,21
+ORD-015842,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-015844,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-015849,Completed & Restocked,Sizing / Fit Issue,11
+ORD-015851,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-015852,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-015853,Completed & Restocked,Sizing / Fit Issue,18
+ORD-015854,Completed & Restocked,Sizing / Fit Issue,6
+ORD-015863,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-015864,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-015865,Completed & Restocked,Sizing / Fit Issue,4
+ORD-015868,Completed & Restocked,Sizing / Fit Issue,11
+ORD-015869,Scrapped / Recycled,Defective / Damaged Item,21
+ORD-015870,Completed & Restocked,Sizing / Fit Issue,16
+ORD-015871,Inspected & Restocked,Delivery Delayed Past Expectation,21
+ORD-015872,Completed & Restocked,Defective / Damaged Item,11
+ORD-015874,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-015875,Completed & Restocked,Defective / Damaged Item,13
+ORD-015877,Completed & Restocked,Wrong Item Shipped,19
+ORD-015879,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-015882,Completed & Restocked,Defective / Damaged Item,18
+ORD-015883,Completed & Restocked,Sizing / Fit Issue,10
+ORD-015885,Completed & Restocked,Sizing / Fit Issue,14
+ORD-015887,Liquidated,Buyer's Remorse / Changed Mind,5
+ORD-015892,Inspected & Restocked,Delivery Delayed Past Expectation,7
+ORD-015893,Completed & Restocked,Sizing / Fit Issue,8
+ORD-015896,Completed & Restocked,Sizing / Fit Issue,13
+ORD-015904,Completed & Restocked,Buyer's Remorse / Changed Mind,21
+ORD-015907,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-015908,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-015916,Completed & Restocked,Sizing / Fit Issue,18
+ORD-015917,Inspected & Restocked,Defective / Damaged Item,11
+ORD-015924,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-015926,Completed & Restocked,Defective / Damaged Item,15
+ORD-015928,Completed & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-015929,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-015933,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-015936,Completed & Restocked,Defective / Damaged Item,7
+ORD-015938,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-015940,Completed & Restocked,Item Not as Pictured / Described,6
+ORD-015941,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-015951,Completed & Restocked,Sizing / Fit Issue,11
+ORD-015954,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-015964,Liquidated,Sizing / Fit Issue,4
+ORD-015966,Liquidated,Sizing / Fit Issue,17
+ORD-015972,Completed & Restocked,Sizing / Fit Issue,16
+ORD-015974,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-015976,Completed & Restocked,Sizing / Fit Issue,25
+ORD-015989,Completed & Restocked,Sizing / Fit Issue,14
+ORD-015991,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-016000,Liquidated,Sizing / Fit Issue,12
+ORD-016002,Inspected & Restocked,Delivery Delayed Past Expectation,15
+ORD-016005,Inspected & Restocked,Defective / Damaged Item,7
+ORD-016008,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-016017,Completed & Restocked,Sizing / Fit Issue,8
+ORD-016020,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016021,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-016027,Completed & Restocked,Defective / Damaged Item,11
+ORD-016029,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016035,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-016059,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-016062,Liquidated,Item Not as Pictured / Described,3
+ORD-016069,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016080,Completed & Restocked,Sizing / Fit Issue,17
+ORD-016084,Completed & Restocked,Sizing / Fit Issue,19
+ORD-016086,Liquidated,Sizing / Fit Issue,11
+ORD-016087,Liquidated,Sizing / Fit Issue,11
+ORD-016105,Inspected & Restocked,Item Not as Pictured / Described,13
+ORD-016106,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-016108,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-016110,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-016116,Inspected & Restocked,Item Not as Pictured / Described,6
+ORD-016119,Completed & Restocked,Buyer's Remorse / Changed Mind,5
+ORD-016122,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-016123,Inspected & Restocked,Wrong Item Shipped,3
+ORD-016125,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-016146,Completed & Restocked,Defective / Damaged Item,18
+ORD-016152,Completed & Restocked,Sizing / Fit Issue,14
+ORD-016155,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-016157,Completed & Restocked,Sizing / Fit Issue,18
+ORD-016158,Completed & Restocked,Sizing / Fit Issue,10
+ORD-016159,Completed & Restocked,Sizing / Fit Issue,10
+ORD-016160,Inspected & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-016172,Liquidated,Sizing / Fit Issue,6
+ORD-016173,Inspected & Restocked,Wrong Item Shipped,14
+ORD-016185,Completed & Restocked,Sizing / Fit Issue,9
+ORD-016188,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-016193,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-016203,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-016209,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-016215,Completed & Restocked,Sizing / Fit Issue,5
+ORD-016216,Completed & Restocked,Sizing / Fit Issue,19
+ORD-016225,Liquidated,Defective / Damaged Item,11
+ORD-016232,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016239,Liquidated,Sizing / Fit Issue,15
+ORD-016240,Liquidated,Sizing / Fit Issue,6
+ORD-016241,Completed & Restocked,Sizing / Fit Issue,18
+ORD-016243,Liquidated,Defective / Damaged Item,13
+ORD-016244,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016246,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-016252,Completed & Restocked,Item Not as Pictured / Described,18
+ORD-016254,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-016259,Completed & Restocked,Sizing / Fit Issue,18
+ORD-016262,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-016275,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-016282,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-016283,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-016285,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-016290,Completed & Restocked,Sizing / Fit Issue,19
+ORD-016293,Completed & Restocked,Sizing / Fit Issue,4
+ORD-016298,Inspected & Restocked,Buyer's Remorse / Changed Mind,19
+ORD-016304,Inspected & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-016309,Completed & Restocked,Delivery Delayed Past Expectation,18
+ORD-016317,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-016318,Liquidated,Sizing / Fit Issue,8
+ORD-016328,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-016333,Completed & Restocked,Sizing / Fit Issue,13
+ORD-016336,Liquidated,Item Not as Pictured / Described,14
+ORD-016343,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016350,Completed & Restocked,Wrong Item Shipped,3
+ORD-016359,Completed & Restocked,Sizing / Fit Issue,4
+ORD-016367,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-016368,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-016372,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016373,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-016375,Liquidated,Delivery Delayed Past Expectation,17
+ORD-016378,Scrapped / Recycled,Item Not as Pictured / Described,18
+ORD-016384,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-016385,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016387,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-016389,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-016390,Completed & Restocked,Sizing / Fit Issue,8
+ORD-016394,Completed & Restocked,Sizing / Fit Issue,3
+ORD-016396,Inspected & Restocked,Delivery Delayed Past Expectation,11
+ORD-016403,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016413,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-016415,Inspected & Restocked,Defective / Damaged Item,9
+ORD-016420,Completed & Restocked,Delivery Delayed Past Expectation,20
+ORD-016431,Completed & Restocked,Sizing / Fit Issue,13
+ORD-016435,Completed & Restocked,Sizing / Fit Issue,18
+ORD-016436,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-016438,Scrapped / Recycled,Delivery Delayed Past Expectation,14
+ORD-016440,Scrapped / Recycled,Sizing / Fit Issue,3
+ORD-016442,Liquidated,Item Not as Pictured / Described,10
+ORD-016454,Completed & Restocked,Sizing / Fit Issue,13
+ORD-016460,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-016461,Completed & Restocked,Sizing / Fit Issue,10
+ORD-016463,Inspected & Restocked,Buyer's Remorse / Changed Mind,3
+ORD-016466,Scrapped / Recycled,Sizing / Fit Issue,9
+ORD-016469,Completed & Restocked,Sizing / Fit Issue,10
+ORD-016474,Completed & Restocked,Sizing / Fit Issue,15
+ORD-016477,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-016479,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016483,Liquidated,Defective / Damaged Item,12
+ORD-016484,Completed & Restocked,Sizing / Fit Issue,16
+ORD-016489,Liquidated,Delivery Delayed Past Expectation,4
+ORD-016495,Completed & Restocked,Sizing / Fit Issue,8
+ORD-016503,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-016504,Liquidated,Wrong Item Shipped,16
+ORD-016505,Completed & Restocked,Sizing / Fit Issue,14
+ORD-016508,Completed & Restocked,Sizing / Fit Issue,3
+ORD-016512,Completed & Restocked,Sizing / Fit Issue,8
+ORD-016513,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016521,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-016523,Completed & Restocked,Defective / Damaged Item,15
+ORD-016525,Completed & Restocked,Sizing / Fit Issue,6
+ORD-016529,Completed & Restocked,Item Not as Pictured / Described,3
+ORD-016532,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-016538,Completed & Restocked,Defective / Damaged Item,8
+ORD-016542,Liquidated,Sizing / Fit Issue,13
+ORD-016548,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016549,Completed & Restocked,Sizing / Fit Issue,14
+ORD-016563,Liquidated,Buyer's Remorse / Changed Mind,13
+ORD-016569,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-016572,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-016574,Completed & Restocked,Sizing / Fit Issue,9
+ORD-016575,Inspected & Restocked,Defective / Damaged Item,18
+ORD-016579,Completed & Restocked,Wrong Item Shipped,10
+ORD-016583,Liquidated,Sizing / Fit Issue,14
+ORD-016586,Completed & Restocked,Sizing / Fit Issue,7
+ORD-016603,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-016605,Completed & Restocked,Sizing / Fit Issue,13
+ORD-016608,Liquidated,Delivery Delayed Past Expectation,12
+ORD-016611,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-016612,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016617,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-016620,Completed & Restocked,Defective / Damaged Item,6
+ORD-016622,Liquidated,Delivery Delayed Past Expectation,3
+ORD-016625,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016627,Scrapped / Recycled,Delivery Delayed Past Expectation,12
+ORD-016633,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-016636,Completed & Restocked,Defective / Damaged Item,16
+ORD-016637,Liquidated,Sizing / Fit Issue,16
+ORD-016640,Completed & Restocked,Wrong Item Shipped,15
+ORD-016647,Completed & Restocked,Sizing / Fit Issue,14
+ORD-016651,Liquidated,Item Not as Pictured / Described,18
+ORD-016654,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016656,Inspected & Restocked,Buyer's Remorse / Changed Mind,4
+ORD-016659,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-016663,Inspected & Restocked,Wrong Item Shipped,11
+ORD-016664,Liquidated,Sizing / Fit Issue,4
+ORD-016667,Completed & Restocked,Sizing / Fit Issue,3
+ORD-016668,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-016670,Scrapped / Recycled,Sizing / Fit Issue,12
+ORD-016671,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016681,Completed & Restocked,Sizing / Fit Issue,5
+ORD-016687,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016696,Completed & Restocked,Defective / Damaged Item,13
+ORD-016698,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016700,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-016701,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-016706,Liquidated,Sizing / Fit Issue,15
+ORD-016711,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-016715,Completed & Restocked,Delivery Delayed Past Expectation,20
+ORD-016716,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-016718,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-016719,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-016724,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-016726,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-016730,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-016736,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-016738,Completed & Restocked,Sizing / Fit Issue,10
+ORD-016739,Inspected & Restocked,Sizing / Fit Issue,20
+ORD-016741,Completed & Restocked,Sizing / Fit Issue,10
+ORD-016747,Completed & Restocked,Defective / Damaged Item,10
+ORD-016752,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-016754,Completed & Restocked,Sizing / Fit Issue,11
+ORD-016760,Completed & Restocked,Sizing / Fit Issue,18
+ORD-016765,Inspected & Restocked,Sizing / Fit Issue,20
+ORD-016770,Completed & Restocked,Sizing / Fit Issue,14
+ORD-016771,Completed & Restocked,Defective / Damaged Item,15
+ORD-016792,Scrapped / Recycled,Sizing / Fit Issue,16
+ORD-016794,Completed & Restocked,Sizing / Fit Issue,9
+ORD-016796,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-016798,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-016815,Completed & Restocked,Sizing / Fit Issue,14
+ORD-016817,Completed & Restocked,Sizing / Fit Issue,9
+ORD-016819,Inspected & Restocked,Defective / Damaged Item,17
+ORD-016823,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-016825,Completed & Restocked,Sizing / Fit Issue,15
+ORD-016828,Liquidated,Defective / Damaged Item,15
+ORD-016831,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-016832,Inspected & Restocked,Defective / Damaged Item,14
+ORD-016833,Inspected & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-016836,Completed & Restocked,Defective / Damaged Item,18
+ORD-016840,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016841,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-016842,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-016850,Liquidated,Sizing / Fit Issue,13
+ORD-016851,Completed & Restocked,Sizing / Fit Issue,21
+ORD-016856,Inspected & Restocked,Buyer's Remorse / Changed Mind,6
+ORD-016861,Completed & Restocked,Item Not as Pictured / Described,18
+ORD-016863,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-016865,Completed & Restocked,Sizing / Fit Issue,20
+ORD-016866,Completed & Restocked,Wrong Item Shipped,17
+ORD-016867,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-016868,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-016870,Completed & Restocked,Sizing / Fit Issue,15
+ORD-016873,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-016882,Completed & Restocked,Sizing / Fit Issue,16
+ORD-016887,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-016896,Liquidated,Sizing / Fit Issue,7
+ORD-016902,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-016904,Liquidated,Delivery Delayed Past Expectation,14
+ORD-016911,Inspected & Restocked,Sizing / Fit Issue,23
+ORD-016913,Completed & Restocked,Sizing / Fit Issue,12
+ORD-016915,Completed & Restocked,Sizing / Fit Issue,10
+ORD-016918,Completed & Restocked,Sizing / Fit Issue,10
+ORD-016922,Liquidated,Sizing / Fit Issue,13
+ORD-016924,Completed & Restocked,Sizing / Fit Issue,17
+ORD-016931,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-016933,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-016934,Completed & Restocked,Defective / Damaged Item,18
+ORD-016945,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-016952,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-016959,Completed & Restocked,Sizing / Fit Issue,15
+ORD-016962,Completed & Restocked,Defective / Damaged Item,15
+ORD-016967,Completed & Restocked,Buyer's Remorse / Changed Mind,16
+ORD-016969,Completed & Restocked,Item Not as Pictured / Described,5
+ORD-016970,Completed & Restocked,Sizing / Fit Issue,16
+ORD-016974,Completed & Restocked,Delivery Delayed Past Expectation,18
+ORD-016978,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-016979,Inspected & Restocked,Delivery Delayed Past Expectation,18
+ORD-016981,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-016982,Completed & Restocked,Sizing / Fit Issue,15
+ORD-016984,Completed & Restocked,Wrong Item Shipped,8
+ORD-016993,Completed & Restocked,Item Not as Pictured / Described,4
+ORD-016997,Completed & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-017004,Inspected & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-017006,Completed & Restocked,Sizing / Fit Issue,18
+ORD-017015,Completed & Restocked,Sizing / Fit Issue,16
+ORD-017016,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-017018,Completed & Restocked,Sizing / Fit Issue,7
+ORD-017025,Completed & Restocked,Sizing / Fit Issue,5
+ORD-017029,Liquidated,Sizing / Fit Issue,9
+ORD-017031,Completed & Restocked,Wrong Item Shipped,6
+ORD-017034,Completed & Restocked,Item Not as Pictured / Described,7
+ORD-017038,Completed & Restocked,Sizing / Fit Issue,12
+ORD-017042,Completed & Restocked,Defective / Damaged Item,12
+ORD-017047,Completed & Restocked,Defective / Damaged Item,17
+ORD-017048,Completed & Restocked,Sizing / Fit Issue,18
+ORD-017050,Scrapped / Recycled,Sizing / Fit Issue,17
+ORD-017058,Liquidated,Sizing / Fit Issue,4
+ORD-017061,Inspected & Restocked,Item Not as Pictured / Described,16
+ORD-017063,Liquidated,Sizing / Fit Issue,6
+ORD-017064,Inspected & Restocked,Delivery Delayed Past Expectation,10
+ORD-017070,Completed & Restocked,Sizing / Fit Issue,9
+ORD-017072,Completed & Restocked,Item Not as Pictured / Described,6
+ORD-017084,Completed & Restocked,Sizing / Fit Issue,8
+ORD-017096,Completed & Restocked,Sizing / Fit Issue,15
+ORD-017105,Completed & Restocked,Sizing / Fit Issue,17
+ORD-017106,Completed & Restocked,Sizing / Fit Issue,12
+ORD-017111,Completed & Restocked,Delivery Delayed Past Expectation,20
+ORD-017112,Liquidated,Delivery Delayed Past Expectation,16
+ORD-017113,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-017115,Completed & Restocked,Wrong Item Shipped,15
+ORD-017116,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-017119,Completed & Restocked,Wrong Item Shipped,3
+ORD-017124,Completed & Restocked,Sizing / Fit Issue,12
+ORD-017131,Completed & Restocked,Sizing / Fit Issue,8
+ORD-017132,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-017133,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-017136,Liquidated,Sizing / Fit Issue,20
+ORD-017137,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-017140,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-017142,Completed & Restocked,Sizing / Fit Issue,15
+ORD-017145,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-017165,Scrapped / Recycled,Sizing / Fit Issue,16
+ORD-017171,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-017174,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-017177,Inspected & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-017179,Inspected & Restocked,Defective / Damaged Item,12
+ORD-017182,Completed & Restocked,Defective / Damaged Item,4
+ORD-017183,Liquidated,Sizing / Fit Issue,15
+ORD-017189,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-017191,Completed & Restocked,Sizing / Fit Issue,7
+ORD-017201,Liquidated,Sizing / Fit Issue,15
+ORD-017203,Inspected & Restocked,Item Not as Pictured / Described,15
+ORD-017204,Inspected & Restocked,Item Not as Pictured / Described,20
+ORD-017205,Scrapped / Recycled,Delivery Delayed Past Expectation,14
+ORD-017212,Liquidated,Sizing / Fit Issue,14
+ORD-017215,Liquidated,Sizing / Fit Issue,15
+ORD-017217,Scrapped / Recycled,Sizing / Fit Issue,16
+ORD-017223,Completed & Restocked,Sizing / Fit Issue,19
+ORD-017230,Completed & Restocked,Sizing / Fit Issue,9
+ORD-017234,Completed & Restocked,Wrong Item Shipped,10
+ORD-017235,Liquidated,Defective / Damaged Item,9
+ORD-017236,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-017245,Scrapped / Recycled,Item Not as Pictured / Described,6
+ORD-017247,Completed & Restocked,Sizing / Fit Issue,9
+ORD-017249,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-017251,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-017252,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-017255,Completed & Restocked,Sizing / Fit Issue,21
+ORD-017256,Completed & Restocked,Sizing / Fit Issue,11
+ORD-017259,Completed & Restocked,Sizing / Fit Issue,20
+ORD-017260,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-017261,Completed & Restocked,Defective / Damaged Item,16
+ORD-017265,Completed & Restocked,Sizing / Fit Issue,18
+ORD-017266,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-017269,Scrapped / Recycled,Buyer's Remorse / Changed Mind,5
+ORD-017272,Liquidated,Sizing / Fit Issue,18
+ORD-017274,Completed & Restocked,Defective / Damaged Item,21
+ORD-017278,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-017279,Completed & Restocked,Sizing / Fit Issue,13
+ORD-017280,Completed & Restocked,Defective / Damaged Item,15
+ORD-017285,Completed & Restocked,Sizing / Fit Issue,3
+ORD-017288,Completed & Restocked,Sizing / Fit Issue,17
+ORD-017290,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-017293,Liquidated,Sizing / Fit Issue,13
+ORD-017295,Inspected & Restocked,Item Not as Pictured / Described,11
+ORD-017296,Completed & Restocked,Sizing / Fit Issue,3
+ORD-017297,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-017299,Inspected & Restocked,Delivery Delayed Past Expectation,12
+ORD-017301,Completed & Restocked,Sizing / Fit Issue,9
+ORD-017309,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-017310,Completed & Restocked,Sizing / Fit Issue,13
+ORD-017315,Inspected & Restocked,Wrong Item Shipped,18
+ORD-017327,Completed & Restocked,Sizing / Fit Issue,14
+ORD-017328,Completed & Restocked,Sizing / Fit Issue,15
+ORD-017329,Inspected & Restocked,Delivery Delayed Past Expectation,11
+ORD-017330,Inspected & Restocked,Item Not as Pictured / Described,7
+ORD-017333,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-017342,Completed & Restocked,Sizing / Fit Issue,7
+ORD-017343,Completed & Restocked,Sizing / Fit Issue,17
+ORD-017345,Liquidated,Sizing / Fit Issue,16
+ORD-017346,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-017350,Completed & Restocked,Defective / Damaged Item,11
+ORD-017355,Inspected & Restocked,Defective / Damaged Item,8
+ORD-017365,Completed & Restocked,Buyer's Remorse / Changed Mind,5
+ORD-017366,Completed & Restocked,Sizing / Fit Issue,13
+ORD-017369,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-017370,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-017380,Liquidated,Sizing / Fit Issue,11
+ORD-017381,Completed & Restocked,Defective / Damaged Item,3
+ORD-017383,Inspected & Restocked,Delivery Delayed Past Expectation,5
+ORD-017387,Completed & Restocked,Sizing / Fit Issue,4
+ORD-017389,Completed & Restocked,Sizing / Fit Issue,6
+ORD-017391,Completed & Restocked,Item Not as Pictured / Described,7
+ORD-017393,Completed & Restocked,Delivery Delayed Past Expectation,18
+ORD-017395,Liquidated,Sizing / Fit Issue,12
+ORD-017398,Liquidated,Buyer's Remorse / Changed Mind,10
+ORD-017399,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-017404,Completed & Restocked,Sizing / Fit Issue,9
+ORD-017405,Completed & Restocked,Sizing / Fit Issue,9
+ORD-017407,Liquidated,Defective / Damaged Item,10
+ORD-017412,Completed & Restocked,Sizing / Fit Issue,11
+ORD-017421,Completed & Restocked,Sizing / Fit Issue,12
+ORD-017425,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-017427,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-017428,Completed & Restocked,Sizing / Fit Issue,10
+ORD-017435,Completed & Restocked,Defective / Damaged Item,14
+ORD-017436,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-017438,Scrapped / Recycled,Defective / Damaged Item,14
+ORD-017440,Completed & Restocked,Buyer's Remorse / Changed Mind,16
+ORD-017441,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-017442,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-017443,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-017444,Completed & Restocked,Sizing / Fit Issue,3
+ORD-017448,Completed & Restocked,Item Not as Pictured / Described,8
+ORD-017450,Completed & Restocked,Defective / Damaged Item,14
+ORD-017454,Completed & Restocked,Sizing / Fit Issue,17
+ORD-017455,Completed & Restocked,Sizing / Fit Issue,10
+ORD-017457,Completed & Restocked,Sizing / Fit Issue,17
+ORD-017468,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-017487,Scrapped / Recycled,Sizing / Fit Issue,7
+ORD-017496,Completed & Restocked,Item Not as Pictured / Described,19
+ORD-017499,Completed & Restocked,Sizing / Fit Issue,8
+ORD-017510,Completed & Restocked,Sizing / Fit Issue,7
+ORD-017513,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-017518,Completed & Restocked,Sizing / Fit Issue,9
+ORD-017524,Scrapped / Recycled,Sizing / Fit Issue,24
+ORD-017528,Completed & Restocked,Defective / Damaged Item,12
+ORD-017537,Liquidated,Item Not as Pictured / Described,8
+ORD-017538,Liquidated,Sizing / Fit Issue,7
+ORD-017539,Completed & Restocked,Delivery Delayed Past Expectation,18
+ORD-017543,Completed & Restocked,Defective / Damaged Item,3
+ORD-017545,Scrapped / Recycled,Delivery Delayed Past Expectation,8
+ORD-017548,Completed & Restocked,Defective / Damaged Item,9
+ORD-017552,Inspected & Restocked,Item Not as Pictured / Described,19
+ORD-017554,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-017556,Completed & Restocked,Sizing / Fit Issue,11
+ORD-017557,Liquidated,Sizing / Fit Issue,17
+ORD-017560,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-017569,Completed & Restocked,Sizing / Fit Issue,8
+ORD-017574,Completed & Restocked,Sizing / Fit Issue,9
+ORD-017577,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-017579,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-017586,Scrapped / Recycled,Defective / Damaged Item,13
+ORD-017587,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-017588,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-017589,Completed & Restocked,Defective / Damaged Item,9
+ORD-017590,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-017593,Liquidated,Sizing / Fit Issue,20
+ORD-017596,Completed & Restocked,Item Not as Pictured / Described,18
+ORD-017605,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-017612,Completed & Restocked,Sizing / Fit Issue,11
+ORD-017620,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-017623,Completed & Restocked,Sizing / Fit Issue,8
+ORD-017626,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-017630,Completed & Restocked,Delivery Delayed Past Expectation,21
+ORD-017632,Completed & Restocked,Sizing / Fit Issue,16
+ORD-017636,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-017644,Inspected & Restocked,Item Not as Pictured / Described,21
+ORD-017645,Completed & Restocked,Sizing / Fit Issue,11
+ORD-017647,Completed & Restocked,Defective / Damaged Item,10
+ORD-017648,Completed & Restocked,Sizing / Fit Issue,17
+ORD-017652,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-017653,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-017656,Completed & Restocked,Sizing / Fit Issue,3
+ORD-017658,Completed & Restocked,Sizing / Fit Issue,5
+ORD-017662,Inspected & Restocked,Delivery Delayed Past Expectation,11
+ORD-017673,Completed & Restocked,Sizing / Fit Issue,5
+ORD-017674,Completed & Restocked,Sizing / Fit Issue,9
+ORD-017675,Completed & Restocked,Sizing / Fit Issue,5
+ORD-017677,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-017680,Completed & Restocked,Defective / Damaged Item,8
+ORD-017681,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-017685,Completed & Restocked,Sizing / Fit Issue,18
+ORD-017687,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-017688,Completed & Restocked,Sizing / Fit Issue,13
+ORD-017689,Liquidated,Delivery Delayed Past Expectation,9
+ORD-017691,Completed & Restocked,Sizing / Fit Issue,6
+ORD-017702,Inspected & Restocked,Delivery Delayed Past Expectation,26
+ORD-017704,Scrapped / Recycled,Defective / Damaged Item,13
+ORD-017706,Scrapped / Recycled,Sizing / Fit Issue,18
+ORD-017707,Liquidated,Item Not as Pictured / Described,8
+ORD-017709,Completed & Restocked,Sizing / Fit Issue,3
+ORD-017725,Completed & Restocked,Defective / Damaged Item,7
+ORD-017736,Completed & Restocked,Wrong Item Shipped,9
+ORD-017738,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-017742,Inspected & Restocked,Item Not as Pictured / Described,24
+ORD-017743,Completed & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-017747,Completed & Restocked,Sizing / Fit Issue,11
+ORD-017749,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-017756,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-017757,Completed & Restocked,Sizing / Fit Issue,10
+ORD-017760,Liquidated,Sizing / Fit Issue,15
+ORD-017761,Liquidated,Item Not as Pictured / Described,13
+ORD-017763,Completed & Restocked,Sizing / Fit Issue,11
+ORD-017766,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-017767,Liquidated,Sizing / Fit Issue,10
+ORD-017768,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-017773,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-017775,Liquidated,Item Not as Pictured / Described,17
+ORD-017776,Completed & Restocked,Defective / Damaged Item,10
+ORD-017781,Completed & Restocked,Sizing / Fit Issue,13
+ORD-017790,Completed & Restocked,Sizing / Fit Issue,4
+ORD-017791,Completed & Restocked,Wrong Item Shipped,7
+ORD-017794,Inspected & Restocked,Defective / Damaged Item,6
+ORD-017796,Completed & Restocked,Defective / Damaged Item,16
+ORD-017797,Completed & Restocked,Defective / Damaged Item,5
+ORD-017799,Completed & Restocked,Defective / Damaged Item,14
+ORD-017803,Inspected & Restocked,Sizing / Fit Issue,21
+ORD-017807,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-017809,Completed & Restocked,Defective / Damaged Item,14
+ORD-017810,Inspected & Restocked,Delivery Delayed Past Expectation,13
+ORD-017813,Completed & Restocked,Defective / Damaged Item,6
+ORD-017825,Completed & Restocked,Wrong Item Shipped,10
+ORD-017827,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-017835,Inspected & Restocked,Defective / Damaged Item,12
+ORD-017837,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-017839,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-017842,Completed & Restocked,Buyer's Remorse / Changed Mind,4
+ORD-017843,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-017848,Completed & Restocked,Defective / Damaged Item,4
+ORD-017851,Liquidated,Sizing / Fit Issue,9
+ORD-017853,Completed & Restocked,Defective / Damaged Item,18
+ORD-017855,Completed & Restocked,Sizing / Fit Issue,3
+ORD-017864,Completed & Restocked,Sizing / Fit Issue,17
+ORD-017866,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-017867,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-017870,Liquidated,Sizing / Fit Issue,17
+ORD-017872,Completed & Restocked,Sizing / Fit Issue,13
+ORD-017874,Completed & Restocked,Sizing / Fit Issue,4
+ORD-017879,Liquidated,Defective / Damaged Item,17
+ORD-017882,Inspected & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-017883,Completed & Restocked,Sizing / Fit Issue,12
+ORD-017885,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-017887,Completed & Restocked,Defective / Damaged Item,17
+ORD-017889,Inspected & Restocked,Defective / Damaged Item,17
+ORD-017894,Completed & Restocked,Defective / Damaged Item,20
+ORD-017897,Completed & Restocked,Sizing / Fit Issue,10
+ORD-017899,Liquidated,Sizing / Fit Issue,11
+ORD-017906,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-017909,Completed & Restocked,Sizing / Fit Issue,10
+ORD-017915,Inspected & Restocked,Defective / Damaged Item,8
+ORD-017917,Liquidated,Defective / Damaged Item,8
+ORD-017919,Completed & Restocked,Sizing / Fit Issue,12
+ORD-017920,Completed & Restocked,Defective / Damaged Item,12
+ORD-017922,Inspected & Restocked,Delivery Delayed Past Expectation,16
+ORD-017926,Completed & Restocked,Wrong Item Shipped,9
+ORD-017928,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-017940,Completed & Restocked,Item Not as Pictured / Described,9
+ORD-017941,Completed & Restocked,Defective / Damaged Item,6
+ORD-017964,Scrapped / Recycled,Sizing / Fit Issue,6
+ORD-017969,Liquidated,Sizing / Fit Issue,19
+ORD-017970,Completed & Restocked,Sizing / Fit Issue,14
+ORD-017973,Completed & Restocked,Defective / Damaged Item,3
+ORD-017976,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-017977,Completed & Restocked,Defective / Damaged Item,17
+ORD-017978,Liquidated,Delivery Delayed Past Expectation,6
+ORD-017980,Completed & Restocked,Sizing / Fit Issue,16
+ORD-017981,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-017982,Completed & Restocked,Sizing / Fit Issue,3
+ORD-017983,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-017985,Completed & Restocked,Defective / Damaged Item,13
+ORD-017986,Completed & Restocked,Defective / Damaged Item,15
+ORD-017997,Inspected & Restocked,Delivery Delayed Past Expectation,20
+ORD-017998,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-018000,Completed & Restocked,Sizing / Fit Issue,10
+ORD-018002,Scrapped / Recycled,Sizing / Fit Issue,6
+ORD-018003,Liquidated,Delivery Delayed Past Expectation,11
+ORD-018008,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-018010,Completed & Restocked,Sizing / Fit Issue,10
+ORD-018013,Liquidated,Sizing / Fit Issue,6
+ORD-018014,Completed & Restocked,Sizing / Fit Issue,17
+ORD-018022,Liquidated,Delivery Delayed Past Expectation,9
+ORD-018024,Completed & Restocked,Defective / Damaged Item,9
+ORD-018027,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018031,Inspected & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-018032,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-018035,Inspected & Restocked,Delivery Delayed Past Expectation,17
+ORD-018040,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018044,Completed & Restocked,Sizing / Fit Issue,13
+ORD-018045,Scrapped / Recycled,Buyer's Remorse / Changed Mind,8
+ORD-018046,Completed & Restocked,Wrong Item Shipped,11
+ORD-018047,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-018048,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-018049,Completed & Restocked,Sizing / Fit Issue,13
+ORD-018053,Completed & Restocked,Sizing / Fit Issue,5
+ORD-018054,Completed & Restocked,Defective / Damaged Item,11
+ORD-018056,Inspected & Restocked,Defective / Damaged Item,5
+ORD-018060,Completed & Restocked,Sizing / Fit Issue,7
+ORD-018065,Liquidated,Sizing / Fit Issue,8
+ORD-018067,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-018069,Liquidated,Sizing / Fit Issue,12
+ORD-018073,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-018076,Scrapped / Recycled,Defective / Damaged Item,14
+ORD-018080,Completed & Restocked,Sizing / Fit Issue,7
+ORD-018081,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-018084,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-018087,Inspected & Restocked,Item Not as Pictured / Described,15
+ORD-018091,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-018098,Completed & Restocked,Buyer's Remorse / Changed Mind,22
+ORD-018099,Completed & Restocked,Sizing / Fit Issue,15
+ORD-018101,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-018102,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-018104,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-018106,Scrapped / Recycled,Item Not as Pictured / Described,4
+ORD-018114,Liquidated,Sizing / Fit Issue,7
+ORD-018115,Completed & Restocked,Sizing / Fit Issue,15
+ORD-018119,Completed & Restocked,Sizing / Fit Issue,6
+ORD-018122,Completed & Restocked,Sizing / Fit Issue,5
+ORD-018124,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-018141,Completed & Restocked,Sizing / Fit Issue,6
+ORD-018142,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-018149,Completed & Restocked,Item Not as Pictured / Described,9
+ORD-018153,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-018160,Inspected & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-018161,Inspected & Restocked,Defective / Damaged Item,10
+ORD-018169,Inspected & Restocked,Defective / Damaged Item,11
+ORD-018176,Completed & Restocked,Sizing / Fit Issue,12
+ORD-018178,Inspected & Restocked,Delivery Delayed Past Expectation,16
+ORD-018179,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018183,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-018186,Liquidated,Buyer's Remorse / Changed Mind,13
+ORD-018190,Completed & Restocked,Buyer's Remorse / Changed Mind,3
+ORD-018191,Liquidated,Delivery Delayed Past Expectation,18
+ORD-018192,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-018193,Completed & Restocked,Sizing / Fit Issue,11
+ORD-018198,Completed & Restocked,Sizing / Fit Issue,8
+ORD-018203,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-018204,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-018206,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-018209,Completed & Restocked,Sizing / Fit Issue,17
+ORD-018210,Completed & Restocked,Sizing / Fit Issue,10
+ORD-018214,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-018231,Completed & Restocked,Sizing / Fit Issue,14
+ORD-018241,Completed & Restocked,Sizing / Fit Issue,14
+ORD-018242,Scrapped / Recycled,Sizing / Fit Issue,16
+ORD-018247,Inspected & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-018248,Inspected & Restocked,Delivery Delayed Past Expectation,14
+ORD-018250,Inspected & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-018251,Inspected & Restocked,Defective / Damaged Item,18
+ORD-018253,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-018254,Inspected & Restocked,Defective / Damaged Item,10
+ORD-018257,Completed & Restocked,Defective / Damaged Item,19
+ORD-018259,Inspected & Restocked,Delivery Delayed Past Expectation,22
+ORD-018261,Inspected & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-018262,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-018264,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-018273,Inspected & Restocked,Delivery Delayed Past Expectation,7
+ORD-018274,Completed & Restocked,Defective / Damaged Item,11
+ORD-018280,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-018297,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-018302,Scrapped / Recycled,Defective / Damaged Item,5
+ORD-018305,Scrapped / Recycled,Sizing / Fit Issue,15
+ORD-018306,Completed & Restocked,Sizing / Fit Issue,13
+ORD-018310,Completed & Restocked,Sizing / Fit Issue,21
+ORD-018311,Inspected & Restocked,Defective / Damaged Item,5
+ORD-018313,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-018324,Completed & Restocked,Sizing / Fit Issue,18
+ORD-018325,Completed & Restocked,Sizing / Fit Issue,17
+ORD-018326,Completed & Restocked,Sizing / Fit Issue,16
+ORD-018327,Completed & Restocked,Sizing / Fit Issue,13
+ORD-018328,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-018330,Completed & Restocked,Defective / Damaged Item,17
+ORD-018334,Completed & Restocked,Sizing / Fit Issue,3
+ORD-018346,Completed & Restocked,Sizing / Fit Issue,15
+ORD-018348,Liquidated,Delivery Delayed Past Expectation,5
+ORD-018349,Completed & Restocked,Defective / Damaged Item,13
+ORD-018355,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-018358,Inspected & Restocked,Item Not as Pictured / Described,16
+ORD-018373,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018375,Completed & Restocked,Sizing / Fit Issue,10
+ORD-018376,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018378,Inspected & Restocked,Defective / Damaged Item,13
+ORD-018388,Liquidated,Sizing / Fit Issue,9
+ORD-018391,Completed & Restocked,Sizing / Fit Issue,5
+ORD-018392,Completed & Restocked,Sizing / Fit Issue,8
+ORD-018396,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-018406,Completed & Restocked,Sizing / Fit Issue,22
+ORD-018407,Completed & Restocked,Sizing / Fit Issue,3
+ORD-018410,Inspected & Restocked,Defective / Damaged Item,5
+ORD-018413,Completed & Restocked,Sizing / Fit Issue,14
+ORD-018418,Completed & Restocked,Buyer's Remorse / Changed Mind,18
+ORD-018420,Completed & Restocked,Sizing / Fit Issue,12
+ORD-018423,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-018424,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-018426,Completed & Restocked,Sizing / Fit Issue,6
+ORD-018427,Completed & Restocked,Sizing / Fit Issue,17
+ORD-018432,Completed & Restocked,Sizing / Fit Issue,20
+ORD-018436,Completed & Restocked,Sizing / Fit Issue,8
+ORD-018438,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-018441,Liquidated,Item Not as Pictured / Described,22
+ORD-018443,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018446,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-018460,Completed & Restocked,Defective / Damaged Item,13
+ORD-018464,Liquidated,Defective / Damaged Item,15
+ORD-018469,Completed & Restocked,Sizing / Fit Issue,13
+ORD-018480,Completed & Restocked,Sizing / Fit Issue,11
+ORD-018482,Completed & Restocked,Sizing / Fit Issue,14
+ORD-018485,Completed & Restocked,Item Not as Pictured / Described,6
+ORD-018486,Completed & Restocked,Sizing / Fit Issue,13
+ORD-018487,Inspected & Restocked,Buyer's Remorse / Changed Mind,20
+ORD-018491,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-018493,Liquidated,Sizing / Fit Issue,13
+ORD-018499,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-018510,Completed & Restocked,Sizing / Fit Issue,11
+ORD-018513,Inspected & Restocked,Delivery Delayed Past Expectation,18
+ORD-018518,Inspected & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-018526,Completed & Restocked,Sizing / Fit Issue,12
+ORD-018531,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-018533,Completed & Restocked,Buyer's Remorse / Changed Mind,16
+ORD-018540,Completed & Restocked,Buyer's Remorse / Changed Mind,3
+ORD-018542,Scrapped / Recycled,Defective / Damaged Item,12
+ORD-018558,Completed & Restocked,Sizing / Fit Issue,7
+ORD-018559,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018565,Completed & Restocked,Sizing / Fit Issue,4
+ORD-018568,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-018573,Liquidated,Sizing / Fit Issue,16
+ORD-018575,Completed & Restocked,Defective / Damaged Item,13
+ORD-018577,Scrapped / Recycled,Sizing / Fit Issue,15
+ORD-018579,Completed & Restocked,Sizing / Fit Issue,13
+ORD-018581,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-018582,Scrapped / Recycled,Item Not as Pictured / Described,15
+ORD-018585,Completed & Restocked,Sizing / Fit Issue,11
+ORD-018604,Completed & Restocked,Sizing / Fit Issue,5
+ORD-018605,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-018606,Scrapped / Recycled,Delivery Delayed Past Expectation,13
+ORD-018607,Completed & Restocked,Defective / Damaged Item,14
+ORD-018610,Scrapped / Recycled,Buyer's Remorse / Changed Mind,7
+ORD-018611,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-018619,Liquidated,Sizing / Fit Issue,3
+ORD-018623,Completed & Restocked,Sizing / Fit Issue,18
+ORD-018624,Inspected & Restocked,Item Not as Pictured / Described,7
+ORD-018628,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-018632,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-018633,Liquidated,Sizing / Fit Issue,5
+ORD-018635,Scrapped / Recycled,Sizing / Fit Issue,7
+ORD-018640,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-018641,Scrapped / Recycled,Sizing / Fit Issue,15
+ORD-018651,Liquidated,Delivery Delayed Past Expectation,3
+ORD-018653,Completed & Restocked,Wrong Item Shipped,8
+ORD-018654,Completed & Restocked,Wrong Item Shipped,19
+ORD-018655,Completed & Restocked,Sizing / Fit Issue,11
+ORD-018656,Inspected & Restocked,Delivery Delayed Past Expectation,15
+ORD-018667,Completed & Restocked,Sizing / Fit Issue,6
+ORD-018668,Inspected & Restocked,Defective / Damaged Item,9
+ORD-018670,Completed & Restocked,Defective / Damaged Item,20
+ORD-018671,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-018673,Inspected & Restocked,Item Not as Pictured / Described,14
+ORD-018679,Completed & Restocked,Wrong Item Shipped,10
+ORD-018685,Completed & Restocked,Sizing / Fit Issue,10
+ORD-018694,Completed & Restocked,Sizing / Fit Issue,14
+ORD-018700,Scrapped / Recycled,Sizing / Fit Issue,15
+ORD-018707,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-018708,Liquidated,Sizing / Fit Issue,17
+ORD-018709,Completed & Restocked,Sizing / Fit Issue,3
+ORD-018714,Liquidated,Sizing / Fit Issue,6
+ORD-018719,Completed & Restocked,Buyer's Remorse / Changed Mind,18
+ORD-018722,Inspected & Restocked,Delivery Delayed Past Expectation,18
+ORD-018726,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-018736,Completed & Restocked,Buyer's Remorse / Changed Mind,18
+ORD-018739,Inspected & Restocked,Defective / Damaged Item,16
+ORD-018740,Completed & Restocked,Sizing / Fit Issue,7
+ORD-018749,Inspected & Restocked,Sizing / Fit Issue,22
+ORD-018753,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018758,Inspected & Restocked,Sizing / Fit Issue,20
+ORD-018763,Liquidated,Delivery Delayed Past Expectation,19
+ORD-018775,Liquidated,Sizing / Fit Issue,17
+ORD-018776,Inspected & Restocked,Delivery Delayed Past Expectation,21
+ORD-018781,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-018783,Liquidated,Sizing / Fit Issue,15
+ORD-018786,Liquidated,Sizing / Fit Issue,8
+ORD-018789,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-018791,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-018795,Completed & Restocked,Sizing / Fit Issue,6
+ORD-018796,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-018797,Inspected & Restocked,Defective / Damaged Item,7
+ORD-018803,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-018806,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-018807,Completed & Restocked,Sizing / Fit Issue,13
+ORD-018814,Completed & Restocked,Sizing / Fit Issue,7
+ORD-018818,Completed & Restocked,Sizing / Fit Issue,3
+ORD-018820,Completed & Restocked,Sizing / Fit Issue,3
+ORD-018822,Inspected & Restocked,Delivery Delayed Past Expectation,6
+ORD-018824,Completed & Restocked,Item Not as Pictured / Described,3
+ORD-018827,Completed & Restocked,Sizing / Fit Issue,18
+ORD-018829,Completed & Restocked,Defective / Damaged Item,22
+ORD-018833,Completed & Restocked,Sizing / Fit Issue,26
+ORD-018835,Completed & Restocked,Sizing / Fit Issue,12
+ORD-018836,Completed & Restocked,Defective / Damaged Item,14
+ORD-018837,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-018846,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-018854,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-018856,Inspected & Restocked,Wrong Item Shipped,14
+ORD-018859,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018861,Liquidated,Sizing / Fit Issue,17
+ORD-018862,Completed & Restocked,Item Not as Pictured / Described,9
+ORD-018864,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-018865,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-018867,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-018868,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-018869,Completed & Restocked,Sizing / Fit Issue,13
+ORD-018875,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-018877,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-018880,Liquidated,Sizing / Fit Issue,18
+ORD-018883,Scrapped / Recycled,Sizing / Fit Issue,16
+ORD-018886,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-018887,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-018889,Completed & Restocked,Sizing / Fit Issue,18
+ORD-018891,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-018892,Liquidated,Sizing / Fit Issue,11
+ORD-018893,Completed & Restocked,Sizing / Fit Issue,15
+ORD-018897,Completed & Restocked,Defective / Damaged Item,13
+ORD-018899,Inspected & Restocked,Defective / Damaged Item,3
+ORD-018905,Completed & Restocked,Item Not as Pictured / Described,5
+ORD-018908,Inspected & Restocked,Item Not as Pictured / Described,17
+ORD-018912,Completed & Restocked,Sizing / Fit Issue,14
+ORD-018917,Inspected & Restocked,Delivery Delayed Past Expectation,7
+ORD-018920,Completed & Restocked,Item Not as Pictured / Described,8
+ORD-018923,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-018925,Completed & Restocked,Sizing / Fit Issue,3
+ORD-018927,Completed & Restocked,Sizing / Fit Issue,7
+ORD-018931,Inspected & Restocked,Buyer's Remorse / Changed Mind,17
+ORD-018934,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-018935,Completed & Restocked,Sizing / Fit Issue,14
+ORD-018939,Inspected & Restocked,Wrong Item Shipped,4
+ORD-018942,Completed & Restocked,Sizing / Fit Issue,9
+ORD-018949,Liquidated,Sizing / Fit Issue,10
+ORD-018955,Completed & Restocked,Buyer's Remorse / Changed Mind,17
+ORD-018956,Completed & Restocked,Sizing / Fit Issue,7
+ORD-018961,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-018962,Completed & Restocked,Sizing / Fit Issue,12
+ORD-018964,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-018969,Completed & Restocked,Buyer's Remorse / Changed Mind,21
+ORD-018974,Completed & Restocked,Defective / Damaged Item,4
+ORD-018978,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-018980,Liquidated,Sizing / Fit Issue,10
+ORD-018989,Scrapped / Recycled,Buyer's Remorse / Changed Mind,12
+ORD-018990,Completed & Restocked,Defective / Damaged Item,5
+ORD-018994,Completed & Restocked,Sizing / Fit Issue,16
+ORD-018996,Completed & Restocked,Wrong Item Shipped,12
+ORD-018998,Completed & Restocked,Sizing / Fit Issue,10
+ORD-019009,Completed & Restocked,Defective / Damaged Item,4
+ORD-019012,Completed & Restocked,Sizing / Fit Issue,3
+ORD-019013,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019015,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-019018,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019021,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-019024,Inspected & Restocked,Defective / Damaged Item,16
+ORD-019028,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-019037,Liquidated,Sizing / Fit Issue,17
+ORD-019040,Completed & Restocked,Defective / Damaged Item,7
+ORD-019041,Inspected & Restocked,Wrong Item Shipped,13
+ORD-019042,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-019044,Inspected & Restocked,Defective / Damaged Item,4
+ORD-019046,Completed & Restocked,Sizing / Fit Issue,12
+ORD-019049,Inspected & Restocked,Defective / Damaged Item,10
+ORD-019054,Inspected & Restocked,Defective / Damaged Item,23
+ORD-019055,Liquidated,Defective / Damaged Item,16
+ORD-019058,Inspected & Restocked,Buyer's Remorse / Changed Mind,17
+ORD-019059,Liquidated,Defective / Damaged Item,11
+ORD-019066,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-019069,Liquidated,Delivery Delayed Past Expectation,9
+ORD-019081,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-019084,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-019086,Liquidated,Sizing / Fit Issue,8
+ORD-019088,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-019090,Inspected & Restocked,Buyer's Remorse / Changed Mind,3
+ORD-019091,Completed & Restocked,Wrong Item Shipped,15
+ORD-019092,Liquidated,Buyer's Remorse / Changed Mind,11
+ORD-019093,Completed & Restocked,Defective / Damaged Item,16
+ORD-019100,Scrapped / Recycled,Wrong Item Shipped,18
+ORD-019104,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019113,Completed & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-019118,Completed & Restocked,Sizing / Fit Issue,10
+ORD-019122,Liquidated,Delivery Delayed Past Expectation,10
+ORD-019125,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-019127,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-019134,Inspected & Restocked,Item Not as Pictured / Described,7
+ORD-019136,Completed & Restocked,Sizing / Fit Issue,10
+ORD-019139,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-019140,Completed & Restocked,Defective / Damaged Item,15
+ORD-019141,Completed & Restocked,Defective / Damaged Item,16
+ORD-019146,Completed & Restocked,Item Not as Pictured / Described,7
+ORD-019148,Completed & Restocked,Defective / Damaged Item,10
+ORD-019150,Completed & Restocked,Sizing / Fit Issue,10
+ORD-019154,Completed & Restocked,Defective / Damaged Item,12
+ORD-019160,Inspected & Restocked,Wrong Item Shipped,12
+ORD-019162,Completed & Restocked,Item Not as Pictured / Described,5
+ORD-019164,Completed & Restocked,Item Not as Pictured / Described,21
+ORD-019166,Completed & Restocked,Buyer's Remorse / Changed Mind,18
+ORD-019167,Completed & Restocked,Sizing / Fit Issue,19
+ORD-019170,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019175,Completed & Restocked,Sizing / Fit Issue,21
+ORD-019188,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-019192,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-019193,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-019197,Inspected & Restocked,Defective / Damaged Item,19
+ORD-019198,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-019202,Completed & Restocked,Sizing / Fit Issue,6
+ORD-019203,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-019204,Completed & Restocked,Defective / Damaged Item,3
+ORD-019214,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-019217,Completed & Restocked,Sizing / Fit Issue,13
+ORD-019218,Inspected & Restocked,Defective / Damaged Item,6
+ORD-019222,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-019225,Completed & Restocked,Buyer's Remorse / Changed Mind,3
+ORD-019234,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-019237,Inspected & Restocked,Buyer's Remorse / Changed Mind,22
+ORD-019240,Liquidated,Sizing / Fit Issue,8
+ORD-019244,Inspected & Restocked,Wrong Item Shipped,20
+ORD-019245,Completed & Restocked,Defective / Damaged Item,15
+ORD-019246,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-019248,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019250,Completed & Restocked,Defective / Damaged Item,15
+ORD-019255,Completed & Restocked,Item Not as Pictured / Described,3
+ORD-019257,Completed & Restocked,Sizing / Fit Issue,10
+ORD-019264,Liquidated,Defective / Damaged Item,11
+ORD-019269,Completed & Restocked,Defective / Damaged Item,11
+ORD-019271,Completed & Restocked,Sizing / Fit Issue,7
+ORD-019273,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-019278,Completed & Restocked,Sizing / Fit Issue,7
+ORD-019282,Inspected & Restocked,Wrong Item Shipped,13
+ORD-019283,Completed & Restocked,Sizing / Fit Issue,7
+ORD-019289,Completed & Restocked,Sizing / Fit Issue,3
+ORD-019291,Completed & Restocked,Sizing / Fit Issue,11
+ORD-019293,Completed & Restocked,Item Not as Pictured / Described,19
+ORD-019296,Liquidated,Sizing / Fit Issue,14
+ORD-019298,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-019301,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-019302,Liquidated,Sizing / Fit Issue,13
+ORD-019307,Liquidated,Delivery Delayed Past Expectation,16
+ORD-019309,Completed & Restocked,Sizing / Fit Issue,11
+ORD-019312,Completed & Restocked,Wrong Item Shipped,10
+ORD-019314,Completed & Restocked,Sizing / Fit Issue,12
+ORD-019316,Completed & Restocked,Sizing / Fit Issue,16
+ORD-019317,Completed & Restocked,Sizing / Fit Issue,3
+ORD-019321,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-019326,Liquidated,Item Not as Pictured / Described,12
+ORD-019333,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-019334,Liquidated,Sizing / Fit Issue,11
+ORD-019337,Completed & Restocked,Wrong Item Shipped,14
+ORD-019344,Completed & Restocked,Sizing / Fit Issue,13
+ORD-019347,Completed & Restocked,Sizing / Fit Issue,12
+ORD-019352,Completed & Restocked,Wrong Item Shipped,16
+ORD-019355,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019358,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-019362,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-019364,Completed & Restocked,Sizing / Fit Issue,10
+ORD-019365,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-019367,Completed & Restocked,Sizing / Fit Issue,9
+ORD-019368,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-019369,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-019370,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-019373,Completed & Restocked,Delivery Delayed Past Expectation,21
+ORD-019378,Completed & Restocked,Sizing / Fit Issue,12
+ORD-019381,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-019382,Completed & Restocked,Sizing / Fit Issue,17
+ORD-019383,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-019389,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-019396,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-019400,Completed & Restocked,Item Not as Pictured / Described,3
+ORD-019401,Liquidated,Sizing / Fit Issue,3
+ORD-019402,Scrapped / Recycled,Sizing / Fit Issue,22
+ORD-019404,Liquidated,Sizing / Fit Issue,18
+ORD-019408,Scrapped / Recycled,Delivery Delayed Past Expectation,22
+ORD-019409,Completed & Restocked,Defective / Damaged Item,6
+ORD-019412,Liquidated,Sizing / Fit Issue,14
+ORD-019414,Completed & Restocked,Sizing / Fit Issue,11
+ORD-019415,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-019419,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-019420,Completed & Restocked,Sizing / Fit Issue,18
+ORD-019425,Inspected & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-019428,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-019429,Inspected & Restocked,Defective / Damaged Item,10
+ORD-019431,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-019438,Completed & Restocked,Sizing / Fit Issue,6
+ORD-019440,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-019441,Completed & Restocked,Item Not as Pictured / Described,8
+ORD-019444,Liquidated,Sizing / Fit Issue,15
+ORD-019446,Completed & Restocked,Sizing / Fit Issue,11
+ORD-019449,Inspected & Restocked,Item Not as Pictured / Described,8
+ORD-019453,Inspected & Restocked,Defective / Damaged Item,17
+ORD-019456,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-019459,Completed & Restocked,Buyer's Remorse / Changed Mind,16
+ORD-019464,Completed & Restocked,Sizing / Fit Issue,3
+ORD-019467,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019469,Inspected & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-019473,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-019476,Completed & Restocked,Sizing / Fit Issue,21
+ORD-019479,Inspected & Restocked,Sizing / Fit Issue,17
+ORD-019481,Completed & Restocked,Sizing / Fit Issue,6
+ORD-019482,Completed & Restocked,Defective / Damaged Item,11
+ORD-019487,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-019491,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-019492,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-019494,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-019496,Completed & Restocked,Sizing / Fit Issue,8
+ORD-019503,Inspected & Restocked,Sizing / Fit Issue,20
+ORD-019507,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-019515,Liquidated,Sizing / Fit Issue,6
+ORD-019517,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-019521,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-019525,Inspected & Restocked,Delivery Delayed Past Expectation,14
+ORD-019527,Inspected & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-019528,Completed & Restocked,Sizing / Fit Issue,9
+ORD-019530,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019532,Completed & Restocked,Sizing / Fit Issue,14
+ORD-019533,Completed & Restocked,Sizing / Fit Issue,3
+ORD-019536,Completed & Restocked,Sizing / Fit Issue,9
+ORD-019539,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-019541,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-019551,Completed & Restocked,Sizing / Fit Issue,9
+ORD-019565,Completed & Restocked,Sizing / Fit Issue,19
+ORD-019566,Completed & Restocked,Sizing / Fit Issue,8
+ORD-019570,Completed & Restocked,Defective / Damaged Item,8
+ORD-019572,Completed & Restocked,Sizing / Fit Issue,14
+ORD-019574,Completed & Restocked,Sizing / Fit Issue,12
+ORD-019576,Completed & Restocked,Sizing / Fit Issue,20
+ORD-019577,Completed & Restocked,Sizing / Fit Issue,10
+ORD-019578,Completed & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-019579,Completed & Restocked,Sizing / Fit Issue,8
+ORD-019582,Completed & Restocked,Sizing / Fit Issue,11
+ORD-019584,Inspected & Restocked,Sizing / Fit Issue,19
+ORD-019588,Inspected & Restocked,Buyer's Remorse / Changed Mind,18
+ORD-019591,Completed & Restocked,Sizing / Fit Issue,12
+ORD-019595,Completed & Restocked,Sizing / Fit Issue,8
+ORD-019600,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-019601,Completed & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-019602,Liquidated,Sizing / Fit Issue,17
+ORD-019608,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-019610,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-019612,Completed & Restocked,Item Not as Pictured / Described,23
+ORD-019615,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-019619,Completed & Restocked,Sizing / Fit Issue,20
+ORD-019637,Inspected & Restocked,Item Not as Pictured / Described,15
+ORD-019641,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-019646,Completed & Restocked,Item Not as Pictured / Described,9
+ORD-019649,Liquidated,Sizing / Fit Issue,18
+ORD-019650,Inspected & Restocked,Delivery Delayed Past Expectation,3
+ORD-019651,Completed & Restocked,Defective / Damaged Item,10
+ORD-019655,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-019662,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-019668,Completed & Restocked,Sizing / Fit Issue,7
+ORD-019672,Scrapped / Recycled,Sizing / Fit Issue,19
+ORD-019676,Completed & Restocked,Sizing / Fit Issue,8
+ORD-019679,Completed & Restocked,Sizing / Fit Issue,4
+ORD-019687,Completed & Restocked,Sizing / Fit Issue,4
+ORD-019699,Inspected & Restocked,Item Not as Pictured / Described,11
+ORD-019700,Completed & Restocked,Sizing / Fit Issue,13
+ORD-019704,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-019706,Liquidated,Buyer's Remorse / Changed Mind,10
+ORD-019708,Completed & Restocked,Sizing / Fit Issue,6
+ORD-019709,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-019710,Liquidated,Sizing / Fit Issue,11
+ORD-019716,Scrapped / Recycled,Sizing / Fit Issue,3
+ORD-019717,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-019718,Completed & Restocked,Delivery Delayed Past Expectation,3
+ORD-019719,Completed & Restocked,Sizing / Fit Issue,11
+ORD-019722,Completed & Restocked,Sizing / Fit Issue,13
+ORD-019730,Inspected & Restocked,Delivery Delayed Past Expectation,10
+ORD-019731,Completed & Restocked,Sizing / Fit Issue,3
+ORD-019733,Completed & Restocked,Wrong Item Shipped,15
+ORD-019745,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-019752,Liquidated,Sizing / Fit Issue,13
+ORD-019757,Liquidated,Sizing / Fit Issue,15
+ORD-019759,Completed & Restocked,Sizing / Fit Issue,20
+ORD-019760,Completed & Restocked,Defective / Damaged Item,3
+ORD-019762,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-019771,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-019773,Completed & Restocked,Wrong Item Shipped,7
+ORD-019777,Completed & Restocked,Sizing / Fit Issue,20
+ORD-019779,Completed & Restocked,Sizing / Fit Issue,11
+ORD-019781,Completed & Restocked,Defective / Damaged Item,13
+ORD-019789,Completed & Restocked,Sizing / Fit Issue,6
+ORD-019791,Completed & Restocked,Sizing / Fit Issue,13
+ORD-019797,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-019804,Inspected & Restocked,Item Not as Pictured / Described,15
+ORD-019809,Completed & Restocked,Defective / Damaged Item,13
+ORD-019819,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019824,Completed & Restocked,Sizing / Fit Issue,15
+ORD-019825,Completed & Restocked,Sizing / Fit Issue,13
+ORD-019826,Completed & Restocked,Sizing / Fit Issue,9
+ORD-019831,Completed & Restocked,Sizing / Fit Issue,11
+ORD-019834,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-019838,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-019844,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-019845,Liquidated,Sizing / Fit Issue,10
+ORD-019848,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-019850,Completed & Restocked,Sizing / Fit Issue,7
+ORD-019862,Scrapped / Recycled,Defective / Damaged Item,15
+ORD-019864,Completed & Restocked,Item Not as Pictured / Described,18
+ORD-019866,Completed & Restocked,Defective / Damaged Item,17
+ORD-019871,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-019875,Completed & Restocked,Defective / Damaged Item,10
+ORD-019878,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-019895,Completed & Restocked,Sizing / Fit Issue,13
+ORD-019896,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-019902,Inspected & Restocked,Item Not as Pictured / Described,9
+ORD-019905,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-019917,Completed & Restocked,Delivery Delayed Past Expectation,23
+ORD-019919,Completed & Restocked,Sizing / Fit Issue,16
+ORD-019923,Liquidated,Wrong Item Shipped,12
+ORD-019928,Completed & Restocked,Sizing / Fit Issue,12
+ORD-019929,Liquidated,Sizing / Fit Issue,13
+ORD-019933,Completed & Restocked,Defective / Damaged Item,19
+ORD-019943,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-019945,Completed & Restocked,Sizing / Fit Issue,7
+ORD-019951,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-019952,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-019955,Inspected & Restocked,Wrong Item Shipped,8
+ORD-019957,Completed & Restocked,Wrong Item Shipped,14
+ORD-019958,Liquidated,Delivery Delayed Past Expectation,13
+ORD-019966,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-019967,Liquidated,Wrong Item Shipped,14
+ORD-019969,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-019971,Liquidated,Delivery Delayed Past Expectation,10
+ORD-019973,Inspected & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-019977,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-019983,Inspected & Restocked,Defective / Damaged Item,4
+ORD-019984,Completed & Restocked,Sizing / Fit Issue,8
+ORD-019987,Completed & Restocked,Sizing / Fit Issue,20
+ORD-019991,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-019995,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-019996,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-020003,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-020010,Completed & Restocked,Sizing / Fit Issue,4
+ORD-020012,Inspected & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-020015,Completed & Restocked,Sizing / Fit Issue,7
+ORD-020017,Completed & Restocked,Sizing / Fit Issue,3
+ORD-020018,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-020020,Completed & Restocked,Sizing / Fit Issue,19
+ORD-020021,Completed & Restocked,Sizing / Fit Issue,15
+ORD-020029,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-020032,Liquidated,Defective / Damaged Item,4
+ORD-020036,Liquidated,Item Not as Pictured / Described,15
+ORD-020037,Completed & Restocked,Sizing / Fit Issue,9
+ORD-020039,Inspected & Restocked,Delivery Delayed Past Expectation,10
+ORD-020042,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-020043,Completed & Restocked,Buyer's Remorse / Changed Mind,16
+ORD-020045,Liquidated,Sizing / Fit Issue,15
+ORD-020053,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-020054,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-020058,Liquidated,Defective / Damaged Item,14
+ORD-020064,Inspected & Restocked,Sizing / Fit Issue,21
+ORD-020071,Inspected & Restocked,Delivery Delayed Past Expectation,16
+ORD-020072,Completed & Restocked,Sizing / Fit Issue,18
+ORD-020079,Inspected & Restocked,Defective / Damaged Item,8
+ORD-020083,Completed & Restocked,Sizing / Fit Issue,12
+ORD-020085,Completed & Restocked,Item Not as Pictured / Described,3
+ORD-020092,Liquidated,Defective / Damaged Item,10
+ORD-020093,Completed & Restocked,Sizing / Fit Issue,24
+ORD-020094,Completed & Restocked,Sizing / Fit Issue,14
+ORD-020095,Completed & Restocked,Sizing / Fit Issue,11
+ORD-020106,Scrapped / Recycled,Sizing / Fit Issue,3
+ORD-020111,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-020114,Completed & Restocked,Sizing / Fit Issue,14
+ORD-020117,Completed & Restocked,Sizing / Fit Issue,3
+ORD-020128,Completed & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-020129,Scrapped / Recycled,Sizing / Fit Issue,9
+ORD-020132,Inspected & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-020134,Completed & Restocked,Sizing / Fit Issue,11
+ORD-020139,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-020148,Completed & Restocked,Defective / Damaged Item,15
+ORD-020165,Completed & Restocked,Sizing / Fit Issue,14
+ORD-020171,Completed & Restocked,Defective / Damaged Item,4
+ORD-020176,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-020177,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-020180,Completed & Restocked,Sizing / Fit Issue,11
+ORD-020191,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-020193,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-020195,Completed & Restocked,Sizing / Fit Issue,19
+ORD-020196,Inspected & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-020206,Inspected & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-020207,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-020211,Completed & Restocked,Sizing / Fit Issue,8
+ORD-020215,Completed & Restocked,Sizing / Fit Issue,8
+ORD-020217,Liquidated,Sizing / Fit Issue,10
+ORD-020220,Inspected & Restocked,Sizing / Fit Issue,18
+ORD-020226,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-020227,Completed & Restocked,Sizing / Fit Issue,4
+ORD-020229,Completed & Restocked,Sizing / Fit Issue,7
+ORD-020231,Completed & Restocked,Sizing / Fit Issue,13
+ORD-020236,Completed & Restocked,Sizing / Fit Issue,23
+ORD-020242,Completed & Restocked,Sizing / Fit Issue,8
+ORD-020249,Inspected & Restocked,Item Not as Pictured / Described,16
+ORD-020251,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-020253,Completed & Restocked,Item Not as Pictured / Described,8
+ORD-020259,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-020260,Completed & Restocked,Defective / Damaged Item,4
+ORD-020261,Inspected & Restocked,Wrong Item Shipped,13
+ORD-020262,Completed & Restocked,Sizing / Fit Issue,8
+ORD-020268,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-020270,Completed & Restocked,Defective / Damaged Item,15
+ORD-020271,Scrapped / Recycled,Sizing / Fit Issue,12
+ORD-020273,Completed & Restocked,Sizing / Fit Issue,7
+ORD-020274,Completed & Restocked,Sizing / Fit Issue,13
+ORD-020276,Completed & Restocked,Delivery Delayed Past Expectation,18
+ORD-020277,Inspected & Restocked,Item Not as Pictured / Described,14
+ORD-020280,Liquidated,Defective / Damaged Item,3
+ORD-020283,Completed & Restocked,Sizing / Fit Issue,17
+ORD-020287,Inspected & Restocked,Item Not as Pictured / Described,9
+ORD-020291,Completed & Restocked,Sizing / Fit Issue,17
+ORD-020296,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-020297,Inspected & Restocked,Defective / Damaged Item,9
+ORD-020301,Completed & Restocked,Sizing / Fit Issue,7
+ORD-020304,Scrapped / Recycled,Sizing / Fit Issue,13
+ORD-020306,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-020314,Completed & Restocked,Sizing / Fit Issue,15
+ORD-020316,Completed & Restocked,Sizing / Fit Issue,18
+ORD-020319,Completed & Restocked,Item Not as Pictured / Described,9
+ORD-020325,Completed & Restocked,Item Not as Pictured / Described,3
+ORD-020327,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-020328,Completed & Restocked,Sizing / Fit Issue,10
+ORD-020329,Inspected & Restocked,Delivery Delayed Past Expectation,11
+ORD-020334,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-020337,Scrapped / Recycled,Sizing / Fit Issue,16
+ORD-020339,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-020343,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-020344,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-020351,Inspected & Restocked,Item Not as Pictured / Described,18
+ORD-020355,Inspected & Restocked,Delivery Delayed Past Expectation,5
+ORD-020358,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-020361,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-020362,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-020366,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-020369,Liquidated,Sizing / Fit Issue,13
+ORD-020375,Liquidated,Buyer's Remorse / Changed Mind,14
+ORD-020384,Liquidated,Sizing / Fit Issue,17
+ORD-020385,Liquidated,Sizing / Fit Issue,16
+ORD-020386,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-020387,Completed & Restocked,Defective / Damaged Item,19
+ORD-020388,Completed & Restocked,Defective / Damaged Item,3
+ORD-020390,Inspected & Restocked,Item Not as Pictured / Described,7
+ORD-020391,Completed & Restocked,Sizing / Fit Issue,16
+ORD-020392,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-020395,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-020402,Completed & Restocked,Wrong Item Shipped,20
+ORD-020406,Completed & Restocked,Sizing / Fit Issue,11
+ORD-020412,Completed & Restocked,Item Not as Pictured / Described,16
+ORD-020416,Completed & Restocked,Defective / Damaged Item,3
+ORD-020420,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-020422,Completed & Restocked,Sizing / Fit Issue,7
+ORD-020430,Liquidated,Sizing / Fit Issue,14
+ORD-020431,Liquidated,Sizing / Fit Issue,14
+ORD-020433,Completed & Restocked,Defective / Damaged Item,15
+ORD-020436,Completed & Restocked,Sizing / Fit Issue,7
+ORD-020438,Scrapped / Recycled,Sizing / Fit Issue,14
+ORD-020448,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-020451,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-020452,Liquidated,Item Not as Pictured / Described,11
+ORD-020453,Liquidated,Item Not as Pictured / Described,13
+ORD-020458,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-020465,Scrapped / Recycled,Item Not as Pictured / Described,8
+ORD-020466,Completed & Restocked,Sizing / Fit Issue,17
+ORD-020469,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-020478,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-020481,Liquidated,Sizing / Fit Issue,14
+ORD-020484,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-020488,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-020491,Completed & Restocked,Sizing / Fit Issue,9
+ORD-020492,Completed & Restocked,Sizing / Fit Issue,12
+ORD-020505,Liquidated,Defective / Damaged Item,14
+ORD-020508,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-020515,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-020516,Completed & Restocked,Sizing / Fit Issue,16
+ORD-020521,Scrapped / Recycled,Defective / Damaged Item,9
+ORD-020523,Completed & Restocked,Sizing / Fit Issue,15
+ORD-020530,Completed & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-020533,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-020534,Inspected & Restocked,Item Not as Pictured / Described,12
+ORD-020535,Inspected & Restocked,Defective / Damaged Item,15
+ORD-020537,Inspected & Restocked,Sizing / Fit Issue,22
+ORD-020539,Inspected & Restocked,Delivery Delayed Past Expectation,5
+ORD-020542,Completed & Restocked,Sizing / Fit Issue,14
+ORD-020544,Completed & Restocked,Defective / Damaged Item,12
+ORD-020553,Inspected & Restocked,Defective / Damaged Item,8
+ORD-020556,Completed & Restocked,Sizing / Fit Issue,13
+ORD-020565,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-020572,Completed & Restocked,Sizing / Fit Issue,17
+ORD-020575,Completed & Restocked,Defective / Damaged Item,8
+ORD-020576,Liquidated,Sizing / Fit Issue,7
+ORD-020583,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-020588,Completed & Restocked,Defective / Damaged Item,15
+ORD-020591,Completed & Restocked,Delivery Delayed Past Expectation,4
+ORD-020593,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-020596,Completed & Restocked,Defective / Damaged Item,10
+ORD-020597,Inspected & Restocked,Item Not as Pictured / Described,8
+ORD-020598,Inspected & Restocked,Item Not as Pictured / Described,14
+ORD-020602,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-020608,Scrapped / Recycled,Sizing / Fit Issue,11
+ORD-020609,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-020613,Completed & Restocked,Defective / Damaged Item,10
+ORD-020619,Completed & Restocked,Item Not as Pictured / Described,8
+ORD-020622,Scrapped / Recycled,Defective / Damaged Item,13
+ORD-020623,Completed & Restocked,Sizing / Fit Issue,13
+ORD-020625,Completed & Restocked,Sizing / Fit Issue,5
+ORD-020633,Scrapped / Recycled,Delivery Delayed Past Expectation,11
+ORD-020637,Inspected & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-020639,Completed & Restocked,Sizing / Fit Issue,22
+ORD-020642,Completed & Restocked,Sizing / Fit Issue,16
+ORD-020658,Inspected & Restocked,Buyer's Remorse / Changed Mind,4
+ORD-020659,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-020661,Inspected & Restocked,Item Not as Pictured / Described,12
+ORD-020663,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-020664,Completed & Restocked,Buyer's Remorse / Changed Mind,18
+ORD-020671,Completed & Restocked,Wrong Item Shipped,15
+ORD-020673,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-020677,Completed & Restocked,Sizing / Fit Issue,12
+ORD-020678,Liquidated,Buyer's Remorse / Changed Mind,15
+ORD-020681,Completed & Restocked,Sizing / Fit Issue,5
+ORD-020690,Completed & Restocked,Item Not as Pictured / Described,15
+ORD-020697,Completed & Restocked,Buyer's Remorse / Changed Mind,14
+ORD-020701,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-020703,Completed & Restocked,Defective / Damaged Item,16
+ORD-020704,Completed & Restocked,Sizing / Fit Issue,19
+ORD-020706,Completed & Restocked,Sizing / Fit Issue,14
+ORD-020707,Completed & Restocked,Delivery Delayed Past Expectation,4
+ORD-020711,Completed & Restocked,Defective / Damaged Item,16
+ORD-020722,Inspected & Restocked,Sizing / Fit Issue,11
+ORD-020727,Completed & Restocked,Sizing / Fit Issue,21
+ORD-020729,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-020730,Completed & Restocked,Wrong Item Shipped,6
+ORD-020731,Completed & Restocked,Sizing / Fit Issue,15
+ORD-020740,Completed & Restocked,Sizing / Fit Issue,12
+ORD-020747,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-020748,Liquidated,Item Not as Pictured / Described,7
+ORD-020754,Completed & Restocked,Sizing / Fit Issue,9
+ORD-020755,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-020759,Completed & Restocked,Delivery Delayed Past Expectation,5
+ORD-020767,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-020768,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-020769,Completed & Restocked,Sizing / Fit Issue,17
+ORD-020770,Completed & Restocked,Sizing / Fit Issue,12
+ORD-020774,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-020785,Inspected & Restocked,Defective / Damaged Item,14
+ORD-020789,Completed & Restocked,Sizing / Fit Issue,9
+ORD-020792,Completed & Restocked,Sizing / Fit Issue,8
+ORD-020795,Completed & Restocked,Sizing / Fit Issue,15
+ORD-020796,Completed & Restocked,Sizing / Fit Issue,11
+ORD-020797,Liquidated,Delivery Delayed Past Expectation,6
+ORD-020799,Completed & Restocked,Sizing / Fit Issue,13
+ORD-020801,Liquidated,Defective / Damaged Item,15
+ORD-020802,Completed & Restocked,Delivery Delayed Past Expectation,9
+ORD-020805,Completed & Restocked,Sizing / Fit Issue,16
+ORD-020809,Completed & Restocked,Sizing / Fit Issue,18
+ORD-020813,Completed & Restocked,Wrong Item Shipped,12
+ORD-020823,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-020824,Completed & Restocked,Sizing / Fit Issue,8
+ORD-020831,Completed & Restocked,Sizing / Fit Issue,18
+ORD-020838,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-020841,Completed & Restocked,Buyer's Remorse / Changed Mind,16
+ORD-020845,Completed & Restocked,Sizing / Fit Issue,8
+ORD-020847,Inspected & Restocked,Sizing / Fit Issue,7
+ORD-020851,Completed & Restocked,Defective / Damaged Item,15
+ORD-020855,Completed & Restocked,Sizing / Fit Issue,6
+ORD-020868,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-020884,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-020886,Liquidated,Delivery Delayed Past Expectation,15
+ORD-020897,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-020898,Liquidated,Sizing / Fit Issue,13
+ORD-020901,Completed & Restocked,Sizing / Fit Issue,14
+ORD-020907,Completed & Restocked,Sizing / Fit Issue,12
+ORD-020910,Completed & Restocked,Sizing / Fit Issue,4
+ORD-020912,Completed & Restocked,Sizing / Fit Issue,14
+ORD-020916,Inspected & Restocked,Defective / Damaged Item,20
+ORD-020921,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-020928,Completed & Restocked,Sizing / Fit Issue,12
+ORD-020933,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-020934,Scrapped / Recycled,Sizing / Fit Issue,22
+ORD-020939,Completed & Restocked,Sizing / Fit Issue,6
+ORD-020940,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-020948,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-020953,Completed & Restocked,Sizing / Fit Issue,10
+ORD-020959,Completed & Restocked,Defective / Damaged Item,12
+ORD-020962,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-020963,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-020967,Completed & Restocked,Sizing / Fit Issue,19
+ORD-020968,Completed & Restocked,Delivery Delayed Past Expectation,17
+ORD-020970,Completed & Restocked,Sizing / Fit Issue,9
+ORD-020978,Inspected & Restocked,Delivery Delayed Past Expectation,8
+ORD-020979,Completed & Restocked,Buyer's Remorse / Changed Mind,18
+ORD-020983,Completed & Restocked,Sizing / Fit Issue,11
+ORD-020989,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-021001,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-021013,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-021016,Liquidated,Sizing / Fit Issue,7
+ORD-021030,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-021037,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-021039,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-021045,Completed & Restocked,Sizing / Fit Issue,10
+ORD-021050,Scrapped / Recycled,Defective / Damaged Item,8
+ORD-021053,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-021060,Liquidated,Sizing / Fit Issue,7
+ORD-021061,Liquidated,Buyer's Remorse / Changed Mind,11
+ORD-021068,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-021069,Liquidated,Sizing / Fit Issue,12
+ORD-021070,Completed & Restocked,Defective / Damaged Item,23
+ORD-021075,Completed & Restocked,Sizing / Fit Issue,14
+ORD-021080,Completed & Restocked,Sizing / Fit Issue,11
+ORD-021084,Completed & Restocked,Buyer's Remorse / Changed Mind,13
+ORD-021086,Completed & Restocked,Sizing / Fit Issue,17
+ORD-021090,Liquidated,Defective / Damaged Item,12
+ORD-021094,Completed & Restocked,Sizing / Fit Issue,16
+ORD-021098,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-021101,Inspected & Restocked,Wrong Item Shipped,12
+ORD-021102,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-021108,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-021111,Scrapped / Recycled,Sizing / Fit Issue,8
+ORD-021117,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-021123,Completed & Restocked,Defective / Damaged Item,5
+ORD-021141,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-021142,Completed & Restocked,Sizing / Fit Issue,7
+ORD-021143,Inspected & Restocked,Delivery Delayed Past Expectation,13
+ORD-021146,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-021148,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-021151,Completed & Restocked,Buyer's Remorse / Changed Mind,6
+ORD-021153,Liquidated,Sizing / Fit Issue,11
+ORD-021155,Completed & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-021160,Completed & Restocked,Defective / Damaged Item,16
+ORD-021162,Completed & Restocked,Sizing / Fit Issue,14
+ORD-021163,Completed & Restocked,Delivery Delayed Past Expectation,25
+ORD-021164,Liquidated,Defective / Damaged Item,11
+ORD-021165,Completed & Restocked,Sizing / Fit Issue,7
+ORD-021169,Completed & Restocked,Sizing / Fit Issue,10
+ORD-021174,Completed & Restocked,Sizing / Fit Issue,11
+ORD-021176,Liquidated,Sizing / Fit Issue,8
+ORD-021178,Completed & Restocked,Item Not as Pictured / Described,13
+ORD-021179,Completed & Restocked,Delivery Delayed Past Expectation,18
+ORD-021184,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-021185,Liquidated,Item Not as Pictured / Described,15
+ORD-021188,Liquidated,Sizing / Fit Issue,8
+ORD-021190,Completed & Restocked,Sizing / Fit Issue,4
+ORD-021192,Inspected & Restocked,Wrong Item Shipped,19
+ORD-021198,Inspected & Restocked,Delivery Delayed Past Expectation,17
+ORD-021202,Scrapped / Recycled,Item Not as Pictured / Described,15
+ORD-021208,Completed & Restocked,Defective / Damaged Item,6
+ORD-021217,Inspected & Restocked,Item Not as Pictured / Described,15
+ORD-021221,Liquidated,Sizing / Fit Issue,3
+ORD-021226,Completed & Restocked,Sizing / Fit Issue,17
+ORD-021237,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-021240,Inspected & Restocked,Item Not as Pictured / Described,12
+ORD-021243,Completed & Restocked,Sizing / Fit Issue,15
+ORD-021257,Completed & Restocked,Sizing / Fit Issue,17
+ORD-021263,Liquidated,Sizing / Fit Issue,14
+ORD-021278,Completed & Restocked,Sizing / Fit Issue,20
+ORD-021279,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-021281,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-021285,Completed & Restocked,Sizing / Fit Issue,17
+ORD-021287,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-021289,Liquidated,Sizing / Fit Issue,8
+ORD-021291,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-021295,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-021296,Completed & Restocked,Sizing / Fit Issue,14
+ORD-021298,Completed & Restocked,Delivery Delayed Past Expectation,7
+ORD-021303,Inspected & Restocked,Wrong Item Shipped,13
+ORD-021309,Completed & Restocked,Sizing / Fit Issue,16
+ORD-021312,Completed & Restocked,Item Not as Pictured / Described,17
+ORD-021319,Completed & Restocked,Defective / Damaged Item,9
+ORD-021325,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-021335,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-021353,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-021354,Completed & Restocked,Sizing / Fit Issue,7
+ORD-021357,Completed & Restocked,Sizing / Fit Issue,18
+ORD-021358,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-021368,Completed & Restocked,Defective / Damaged Item,16
+ORD-021369,Completed & Restocked,Buyer's Remorse / Changed Mind,9
+ORD-021370,Scrapped / Recycled,Buyer's Remorse / Changed Mind,5
+ORD-021375,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021381,Completed & Restocked,Sizing / Fit Issue,19
+ORD-021382,Completed & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-021385,Completed & Restocked,Buyer's Remorse / Changed Mind,6
+ORD-021399,Completed & Restocked,Defective / Damaged Item,17
+ORD-021402,Completed & Restocked,Sizing / Fit Issue,8
+ORD-021412,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021415,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-021417,Completed & Restocked,Delivery Delayed Past Expectation,8
+ORD-021422,Completed & Restocked,Item Not as Pictured / Described,10
+ORD-021423,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-021424,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021425,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-021434,Liquidated,Sizing / Fit Issue,15
+ORD-021435,Liquidated,Defective / Damaged Item,12
+ORD-021443,Completed & Restocked,Buyer's Remorse / Changed Mind,4
+ORD-021445,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-021456,Inspected & Restocked,Delivery Delayed Past Expectation,15
+ORD-021457,Scrapped / Recycled,Defective / Damaged Item,5
+ORD-021463,Completed & Restocked,Defective / Damaged Item,4
+ORD-021467,Completed & Restocked,Sizing / Fit Issue,3
+ORD-021472,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-021476,Completed & Restocked,Delivery Delayed Past Expectation,12
+ORD-021482,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-021485,Completed & Restocked,Sizing / Fit Issue,10
+ORD-021487,Completed & Restocked,Defective / Damaged Item,12
+ORD-021488,Completed & Restocked,Sizing / Fit Issue,16
+ORD-021489,Completed & Restocked,Defective / Damaged Item,11
+ORD-021493,Completed & Restocked,Buyer's Remorse / Changed Mind,11
+ORD-021494,Completed & Restocked,Delivery Delayed Past Expectation,19
+ORD-021496,Completed & Restocked,Sizing / Fit Issue,16
+ORD-021497,Scrapped / Recycled,Sizing / Fit Issue,5
+ORD-021499,Inspected & Restocked,Sizing / Fit Issue,3
+ORD-021501,Inspected & Restocked,Sizing / Fit Issue,4
+ORD-021504,Completed & Restocked,Defective / Damaged Item,21
+ORD-021505,Inspected & Restocked,Defective / Damaged Item,13
+ORD-021509,Completed & Restocked,Sizing / Fit Issue,5
+ORD-021512,Scrapped / Recycled,Sizing / Fit Issue,10
+ORD-021518,Liquidated,Wrong Item Shipped,9
+ORD-021524,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-021527,Completed & Restocked,Sizing / Fit Issue,5
+ORD-021528,Inspected & Restocked,Defective / Damaged Item,10
+ORD-021530,Completed & Restocked,Sizing / Fit Issue,11
+ORD-021531,Inspected & Restocked,Buyer's Remorse / Changed Mind,15
+ORD-021535,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-021536,Liquidated,Delivery Delayed Past Expectation,9
+ORD-021540,Inspected & Restocked,Delivery Delayed Past Expectation,14
+ORD-021542,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-021547,Inspected & Restocked,Sizing / Fit Issue,12
+ORD-021549,Completed & Restocked,Delivery Delayed Past Expectation,15
+ORD-021550,Completed & Restocked,Sizing / Fit Issue,17
+ORD-021552,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021553,Completed & Restocked,Sizing / Fit Issue,4
+ORD-021571,Liquidated,Delivery Delayed Past Expectation,6
+ORD-021573,Completed & Restocked,Defective / Damaged Item,17
+ORD-021577,Liquidated,Sizing / Fit Issue,15
+ORD-021584,Completed & Restocked,Sizing / Fit Issue,9
+ORD-021587,Inspected & Restocked,Sizing / Fit Issue,16
+ORD-021590,Scrapped / Recycled,Buyer's Remorse / Changed Mind,10
+ORD-021593,Completed & Restocked,Delivery Delayed Past Expectation,14
+ORD-021594,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-021599,Completed & Restocked,Sizing / Fit Issue,16
+ORD-021602,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-021603,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-021608,Completed & Restocked,Sizing / Fit Issue,16
+ORD-021609,Completed & Restocked,Buyer's Remorse / Changed Mind,19
+ORD-021610,Inspected & Restocked,Item Not as Pictured / Described,14
+ORD-021613,Liquidated,Sizing / Fit Issue,18
+ORD-021614,Completed & Restocked,Buyer's Remorse / Changed Mind,8
+ORD-021619,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-021620,Completed & Restocked,Sizing / Fit Issue,10
+ORD-021621,Liquidated,Delivery Delayed Past Expectation,16
+ORD-021622,Completed & Restocked,Sizing / Fit Issue,8
+ORD-021623,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-021625,Completed & Restocked,Sizing / Fit Issue,20
+ORD-021627,Completed & Restocked,Sizing / Fit Issue,14
+ORD-021629,Completed & Restocked,Sizing / Fit Issue,14
+ORD-021630,Inspected & Restocked,Sizing / Fit Issue,5
+ORD-021635,Completed & Restocked,Sizing / Fit Issue,22
+ORD-021636,Inspected & Restocked,Sizing / Fit Issue,15
+ORD-021643,Inspected & Restocked,Sizing / Fit Issue,13
+ORD-021644,Inspected & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-021649,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-021650,Inspected & Restocked,Defective / Damaged Item,14
+ORD-021664,Completed & Restocked,Defective / Damaged Item,17
+ORD-021669,Scrapped / Recycled,Delivery Delayed Past Expectation,19
+ORD-021676,Scrapped / Recycled,Delivery Delayed Past Expectation,8
+ORD-021680,Completed & Restocked,Sizing / Fit Issue,9
+ORD-021685,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021687,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-021691,Completed & Restocked,Sizing / Fit Issue,15
+ORD-021692,Scrapped / Recycled,Sizing / Fit Issue,15
+ORD-021698,Completed & Restocked,Defective / Damaged Item,6
+ORD-021699,Liquidated,Sizing / Fit Issue,20
+ORD-021702,Completed & Restocked,Sizing / Fit Issue,18
+ORD-021703,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-021705,Completed & Restocked,Sizing / Fit Issue,11
+ORD-021710,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-021711,Completed & Restocked,Sizing / Fit Issue,10
+ORD-021717,Liquidated,Delivery Delayed Past Expectation,11
+ORD-021721,Completed & Restocked,Defective / Damaged Item,5
+ORD-021724,Completed & Restocked,Sizing / Fit Issue,9
+ORD-021727,Completed & Restocked,Sizing / Fit Issue,23
+ORD-021730,Completed & Restocked,Sizing / Fit Issue,5
+ORD-021736,Completed & Restocked,Sizing / Fit Issue,10
+ORD-021742,Completed & Restocked,Defective / Damaged Item,21
+ORD-021743,Inspected & Restocked,Delivery Delayed Past Expectation,9
+ORD-021752,Inspected & Restocked,Delivery Delayed Past Expectation,13
+ORD-021756,Liquidated,Sizing / Fit Issue,11
+ORD-021761,Inspected & Restocked,Buyer's Remorse / Changed Mind,4
+ORD-021767,Completed & Restocked,Delivery Delayed Past Expectation,26
+ORD-021768,Completed & Restocked,Sizing / Fit Issue,17
+ORD-021769,Completed & Restocked,Item Not as Pictured / Described,12
+ORD-021770,Completed & Restocked,Sizing / Fit Issue,8
+ORD-021772,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021775,Completed & Restocked,Buyer's Remorse / Changed Mind,10
+ORD-021777,Inspected & Restocked,Sizing / Fit Issue,14
+ORD-021783,Inspected & Restocked,Sizing / Fit Issue,9
+ORD-021788,Completed & Restocked,Item Not as Pictured / Described,11
+ORD-021790,Completed & Restocked,Sizing / Fit Issue,18
+ORD-021791,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021793,Completed & Restocked,Sizing / Fit Issue,17
+ORD-021795,Liquidated,Buyer's Remorse / Changed Mind,6
+ORD-021797,Scrapped / Recycled,Delivery Delayed Past Expectation,12
+ORD-021799,Liquidated,Defective / Damaged Item,13
+ORD-021802,Completed & Restocked,Sizing / Fit Issue,8
+ORD-021804,Completed & Restocked,Sizing / Fit Issue,10
+ORD-021806,Completed & Restocked,Item Not as Pictured / Described,14
+ORD-021810,Completed & Restocked,Sizing / Fit Issue,5
+ORD-021811,Liquidated,Delivery Delayed Past Expectation,17
+ORD-021815,Inspected & Restocked,Delivery Delayed Past Expectation,18
+ORD-021841,Completed & Restocked,Sizing / Fit Issue,12
+ORD-021845,Inspected & Restocked,Sizing / Fit Issue,10
+ORD-021848,Completed & Restocked,Sizing / Fit Issue,4
+ORD-021859,Completed & Restocked,Sizing / Fit Issue,15
+ORD-021862,Completed & Restocked,Sizing / Fit Issue,7
+ORD-021864,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021866,Inspected & Restocked,Sizing / Fit Issue,23
+ORD-021867,Completed & Restocked,Sizing / Fit Issue,27
+ORD-021868,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-021871,Completed & Restocked,Delivery Delayed Past Expectation,11
+ORD-021872,Scrapped / Recycled,Sizing / Fit Issue,16
+ORD-021876,Liquidated,Sizing / Fit Issue,15
+ORD-021877,Inspected & Restocked,Buyer's Remorse / Changed Mind,7
+ORD-021878,Liquidated,Sizing / Fit Issue,10
+ORD-021880,Liquidated,Defective / Damaged Item,6
+ORD-021881,Scrapped / Recycled,Sizing / Fit Issue,18
+ORD-021883,Completed & Restocked,Sizing / Fit Issue,16
+ORD-021886,Completed & Restocked,Sizing / Fit Issue,10
+ORD-021890,Completed & Restocked,Sizing / Fit Issue,12
+ORD-021891,Completed & Restocked,Buyer's Remorse / Changed Mind,4
+ORD-021892,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021896,Completed & Restocked,Sizing / Fit Issue,19
+ORD-021897,Completed & Restocked,Delivery Delayed Past Expectation,13
+ORD-021899,Inspected & Restocked,Sizing / Fit Issue,22
+ORD-021904,Completed & Restocked,Sizing / Fit Issue,5
+ORD-021908,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-021912,Completed & Restocked,Sizing / Fit Issue,16
+ORD-021913,Completed & Restocked,Delivery Delayed Past Expectation,6
+ORD-021914,Inspected & Restocked,Sizing / Fit Issue,8
+ORD-021915,Completed & Restocked,Defective / Damaged Item,17
+ORD-021919,Completed & Restocked,Wrong Item Shipped,17
+ORD-021924,Completed & Restocked,Sizing / Fit Issue,15
+ORD-021926,Completed & Restocked,Sizing / Fit Issue,6
+ORD-021928,Completed & Restocked,Defective / Damaged Item,12
+ORD-021931,Completed & Restocked,Buyer's Remorse / Changed Mind,12
+ORD-021934,Completed & Restocked,Delivery Delayed Past Expectation,10
+ORD-021939,Completed & Restocked,Item Not as Pictured / Described,3
+ORD-021944,Completed & Restocked,Sizing / Fit Issue,8
+ORD-021954,Completed & Restocked,Defective / Damaged Item,13
+ORD-021962,Completed & Restocked,Delivery Delayed Past Expectation,16
+ORD-021965,Completed & Restocked,Sizing / Fit Issue,13
+ORD-021967,Completed & Restocked,Sizing / Fit Issue,12
+ORD-021970,Liquidated,Sizing / Fit Issue,3
+ORD-021982,Completed & Restocked,Item Not as Pictured / Described,4
+ORD-021984,Completed & Restocked,Sizing / Fit Issue,12
+ORD-021988,Inspected & Restocked,Sizing / Fit Issue,6
+ORD-021991,Completed & Restocked,Sizing / Fit Issue,15
+ORD-021994,Liquidated,Item Not as Pictured / Described,20

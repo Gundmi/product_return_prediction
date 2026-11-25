@@ -1,0 +1,5 @@
+PaymentID,PaymentMethod,IsDoorstepPayment
+1,Cash on Delivery,1
+2,Credit Card,0
+3,Debit Card,0
+4,UPI / Digital Wallet,0
